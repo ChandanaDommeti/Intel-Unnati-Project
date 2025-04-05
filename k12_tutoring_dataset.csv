@@ -1,0 +1,1001 @@
+Name,Age,Gender,Country,State,City,Parent_Occupation,Earning_Class,Level_Student,Level_Course,Course_Name,Time_Per_Day,Material_Level,IQ,Assessment_Score,Promotion_Status
+Student_1,12,Female,Canada,Alberta,Calgary,Service Worker,High,Middle School,Beginner,Science,228,Medium,75,72,Yes
+Student_2,9,Female,USA,Illinois,Chicago,Engineer,Low,Elementary,Intermediate,Science,148,Hard,94,63,Yes
+Student_3,16,Male,India,Uttar Pradesh,Lucknow,Business Owner,Middle,High School,Beginner,Science,136,Easy,108,94,Yes
+Student_4,13,Female,India,Tamil Nadu,Coimbatore,Service Worker,Middle,Middle School,Beginner,Literature,135,Easy,84,85,Yes
+Student_5,10,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Elementary,Intermediate,Math,124,Hard,95,83,Yes
+Student_6,12,Female,UK,England,London,Artist,Middle,Middle School,Advanced,Music,22,Easy,70,57,Yes
+Student_7,15,Male,India,Uttar Pradesh,Lucknow,Other,Low,High School,Intermediate,Computer Science,65,Hard,79,57,Yes
+Student_8,8,Male,UK,Wales,Cardiff,Unemployed,Low,Elementary,Advanced,Math,74,Hard,83,62,Yes
+Student_9,12,Female,Canada,Quebec,Montreal,Service Worker,Middle,Middle School,Advanced,Literature,94,Medium,101,65,Yes
+Student_10,16,Other,USA,Texas,Austin,Service Worker,Middle,High School,Intermediate,Science,235,Hard,105,74,Yes
+Student_11,16,Female,Australia,Western Australia,Perth,Service Worker,Low,High School,Beginner,History,233,Easy,99,89,Yes
+Student_12,13,Female,UK,Northern Ireland,Belfast,Teacher,Middle,Middle School,Intermediate,Science,211,Medium,94,69,Yes
+Student_13,10,Female,India,Karnataka,Mysore,Artist,Middle,Elementary,Advanced,Computer Science,64,Medium,94,61,Yes
+Student_14,9,Male,UK,Wales,Cardiff,Engineer,Middle,Elementary,Intermediate,Art,173,Medium,110,70,Yes
+Student_15,13,Other,India,Delhi,Delhi,Business Owner,Middle,Middle School,Intermediate,History,96,Hard,103,55,Yes
+Student_16,13,Female,UK,Wales,Cardiff,Business Owner,Low,Middle School,Advanced,Science,212,Easy,94,86,Yes
+Student_17,8,Female,India,Uttar Pradesh,Lucknow,Teacher,Low,Elementary,Beginner,Music,43,Medium,119,67,Yes
+Student_18,11,Female,Canada,Ontario,Ottawa,Other,Middle,Middle School,Intermediate,History,221,Medium,129,78,Yes
+Student_19,10,Female,India,Uttar Pradesh,Kanpur,Other,Middle,Elementary,Advanced,Art,54,Medium,81,66,Yes
+Student_20,7,Female,India,Delhi,Delhi,Admin,Middle,Elementary,Advanced,Math,43,Easy,107,74,Yes
+Student_21,13,Male,USA,California,San Francisco,Business Owner,Middle,Middle School,Intermediate,Literature,47,Medium,145,77,Yes
+Student_22,17,Female,India,Uttar Pradesh,Lucknow,Unemployed,Middle,High School,Beginner,Science,227,Hard,104,79,Yes
+Student_23,11,Male,USA,California,Los Angeles,Engineer,High,Middle School,Intermediate,Computer Science,35,Easy,101,68,Yes
+Student_24,7,Other,Australia,Western Australia,Perth,Admin,Middle,Elementary,Beginner,Math,78,Hard,99,46,No
+Student_25,17,Female,USA,Florida,Miami,Engineer,Middle,High School,Beginner,Science,228,Medium,107,89,Yes
+Student_26,10,Male,Canada,British Columbia,Victoria,Admin,Middle,Elementary,Beginner,Math,201,Medium,111,72,Yes
+Student_27,6,Female,USA,New York,New York City,Teacher,Low,Elementary,Beginner,Computer Science,226,Medium,81,65,Yes
+Student_28,17,Female,Australia,Queensland,Brisbane,Unemployed,Middle,High School,Intermediate,Science,163,Easy,99,72,Yes
+Student_29,15,Female,Canada,Ontario,Toronto,Other,Low,High School,Advanced,Art,34,Medium,70,58,Yes
+Student_30,11,Female,UK,Scotland,Edinburgh,Engineer,High,Middle School,Advanced,Art,30,Hard,96,58,Yes
+Student_31,17,Male,UK,Northern Ireland,Belfast,Business Owner,Middle,High School,Advanced,Computer Science,212,Medium,86,79,Yes
+Student_32,14,Female,USA,Illinois,Chicago,Other,Middle,Middle School,Advanced,History,98,Hard,105,80,Yes
+Student_33,6,Female,USA,Illinois,Chicago,Business Owner,Middle,Elementary,Advanced,Computer Science,237,Medium,75,64,Yes
+Student_34,16,Male,Australia,Queensland,Brisbane,Unemployed,Low,High School,Advanced,History,134,Easy,92,67,Yes
+Student_35,16,Female,Australia,Queensland,Brisbane,Service Worker,Low,High School,Intermediate,Science,87,Medium,114,69,Yes
+Student_36,15,Male,India,Maharashtra,Nagpur,Doctor,Middle,High School,Beginner,History,62,Hard,89,63,Yes
+Student_37,17,Male,Australia,Western Australia,Perth,Teacher,Low,High School,Advanced,Science,88,Medium,71,60,Yes
+Student_38,17,Female,India,Maharashtra,Nagpur,Teacher,Middle,High School,Intermediate,Science,160,Hard,103,65,Yes
+Student_39,8,Female,Canada,Quebec,Quebec City,Admin,Middle,Elementary,Advanced,Music,157,Hard,91,55,Yes
+Student_40,17,Male,USA,Florida,Orlando,Artist,Middle,High School,Advanced,Literature,94,Medium,97,51,Yes
+Student_41,12,Female,Canada,British Columbia,Vancouver,Business Owner,Middle,Middle School,Beginner,Science,229,Easy,89,70,Yes
+Student_42,9,Male,Australia,Victoria,Melbourne,Business Owner,Low,Elementary,Beginner,History,122,Medium,129,90,Yes
+Student_43,14,Male,Canada,Quebec,Quebec City,Service Worker,Middle,Middle School,Beginner,Literature,60,Medium,76,64,Yes
+Student_44,8,Male,Canada,British Columbia,Vancouver,Unemployed,Middle,Elementary,Advanced,Literature,197,Medium,142,86,Yes
+Student_45,10,Male,Canada,Quebec,Montreal,Other,Low,Elementary,Advanced,Science,234,Medium,94,81,Yes
+Student_46,8,Male,Australia,NSW,Sydney,Artist,Middle,Elementary,Advanced,Computer Science,218,Medium,102,66,Yes
+Student_47,12,Female,Canada,Quebec,Montreal,Unemployed,Low,Middle School,Beginner,Computer Science,78,Medium,91,67,Yes
+Student_48,10,Female,India,Tamil Nadu,Chennai,Admin,Middle,Elementary,Intermediate,Art,58,Medium,90,51,Yes
+Student_49,14,Male,Australia,NSW,Sydney,Service Worker,High,Middle School,Advanced,Literature,22,Medium,88,65,Yes
+Student_50,12,Female,Canada,Quebec,Montreal,Other,Low,Middle School,Advanced,Science,223,Medium,109,81,Yes
+Student_51,7,Female,Australia,Western Australia,Perth,Teacher,Middle,Elementary,Advanced,Music,26,Medium,78,62,Yes
+Student_52,9,Male,UK,England,Manchester,Engineer,Middle,Elementary,Intermediate,Computer Science,68,Medium,105,79,Yes
+Student_53,14,Female,India,Maharashtra,Pune,Unemployed,High,Middle School,Advanced,Music,45,Hard,70,59,Yes
+Student_54,17,Other,Canada,Alberta,Calgary,Business Owner,Middle,High School,Intermediate,Science,180,Medium,104,66,Yes
+Student_55,7,Male,UK,Northern Ireland,Belfast,Unemployed,Middle,Elementary,Advanced,Science,120,Medium,112,84,Yes
+Student_56,15,Male,UK,Scotland,Edinburgh,Unemployed,Low,High School,Intermediate,Literature,195,Medium,80,67,Yes
+Student_57,14,Female,Australia,Victoria,Melbourne,Engineer,Low,Middle School,Advanced,Music,98,Easy,110,62,Yes
+Student_58,15,Female,UK,Wales,Cardiff,Unemployed,Low,High School,Beginner,Art,21,Easy,100,70,Yes
+Student_59,10,Male,India,Tamil Nadu,Coimbatore,Business Owner,High,Elementary,Beginner,Literature,146,Hard,123,79,Yes
+Student_60,7,Female,India,Maharashtra,Mumbai,Business Owner,Middle,Elementary,Beginner,Math,218,Medium,87,64,Yes
+Student_61,9,Female,USA,Florida,Orlando,Service Worker,Middle,Elementary,Beginner,Music,179,Medium,142,97,Yes
+Student_62,17,Female,India,Maharashtra,Nagpur,Other,High,High School,Advanced,Computer Science,151,Medium,70,56,Yes
+Student_63,17,Female,UK,England,London,Engineer,Low,High School,Beginner,Computer Science,39,Easy,95,67,Yes
+Student_64,12,Female,India,Karnataka,Bangalore,Business Owner,Middle,Middle School,Intermediate,Computer Science,136,Medium,74,59,Yes
+Student_65,17,Male,Australia,NSW,Sydney,Service Worker,Low,High School,Beginner,History,183,Medium,127,69,Yes
+Student_66,13,Male,USA,California,Los Angeles,Admin,Low,Middle School,Beginner,Science,51,Medium,96,58,Yes
+Student_67,8,Female,UK,England,London,Service Worker,Low,Elementary,Beginner,Literature,47,Medium,97,61,Yes
+Student_68,6,Female,USA,New York,New York City,Engineer,Middle,Elementary,Advanced,Computer Science,96,Easy,106,76,Yes
+Student_69,9,Male,UK,Wales,Cardiff,Teacher,Low,Elementary,Beginner,Math,20,Easy,99,47,No
+Student_70,7,Female,Australia,Western Australia,Perth,Doctor,Low,Elementary,Intermediate,Computer Science,207,Hard,91,73,Yes
+Student_71,13,Female,USA,New York,New York City,Unemployed,Low,Middle School,Beginner,Art,75,Medium,81,69,Yes
+Student_72,9,Male,Canada,Quebec,Quebec City,Teacher,Low,Elementary,Beginner,Science,54,Medium,102,78,Yes
+Student_73,7,Female,UK,Northern Ireland,Belfast,Teacher,High,Elementary,Beginner,Music,131,Easy,105,66,Yes
+Student_74,11,Female,Canada,Alberta,Calgary,Other,Middle,Middle School,Intermediate,Science,49,Easy,110,73,Yes
+Student_75,11,Female,USA,Illinois,Chicago,Engineer,High,Middle School,Beginner,Music,73,Medium,128,85,Yes
+Student_76,15,Female,Canada,British Columbia,Victoria,Other,Middle,High School,Intermediate,Music,55,Medium,70,67,Yes
+Student_77,9,Male,Canada,Ontario,Ottawa,Service Worker,Low,Elementary,Intermediate,Literature,202,Medium,98,86,Yes
+Student_78,11,Female,USA,New York,New York City,Unemployed,Middle,Middle School,Beginner,History,236,Easy,117,88,Yes
+Student_79,7,Male,Australia,Queensland,Brisbane,Teacher,Low,Elementary,Intermediate,Music,99,Medium,98,69,Yes
+Student_80,15,Male,Canada,Ontario,Ottawa,Engineer,Low,High School,Advanced,Music,77,Easy,70,52,Yes
+Student_81,17,Female,Canada,Ontario,Ottawa,Admin,Low,High School,Beginner,Literature,102,Easy,80,78,Yes
+Student_82,7,Male,Australia,NSW,Sydney,Unemployed,Low,Elementary,Beginner,Computer Science,84,Medium,104,67,Yes
+Student_83,15,Male,Canada,Ontario,Ottawa,Admin,Low,High School,Intermediate,Art,88,Easy,104,76,Yes
+Student_84,9,Female,Canada,Quebec,Montreal,Engineer,Middle,Elementary,Intermediate,Math,147,Easy,110,80,Yes
+Student_85,13,Male,Canada,Ontario,Ottawa,Admin,Middle,Middle School,Beginner,Literature,70,Medium,88,46,No
+Student_86,12,Male,India,Tamil Nadu,Coimbatore,Admin,Low,Middle School,Advanced,History,41,Medium,103,61,Yes
+Student_87,17,Female,Australia,Queensland,Brisbane,Service Worker,Low,High School,Intermediate,Literature,235,Hard,85,71,Yes
+Student_88,14,Female,Canada,Quebec,Montreal,Admin,Middle,Middle School,Intermediate,Science,126,Medium,103,72,Yes
+Student_89,13,Male,Australia,NSW,Sydney,Unemployed,Low,Middle School,Advanced,Computer Science,128,Easy,100,80,Yes
+Student_90,10,Female,UK,Wales,Cardiff,Service Worker,Low,Elementary,Advanced,Computer Science,135,Easy,87,79,Yes
+Student_91,7,Female,UK,Scotland,Edinburgh,Engineer,Middle,Elementary,Beginner,Music,120,Hard,123,66,Yes
+Student_92,10,Female,Canada,British Columbia,Victoria,Business Owner,Low,Elementary,Advanced,Computer Science,200,Medium,74,63,Yes
+Student_93,13,Female,Australia,Victoria,Melbourne,Engineer,Low,Middle School,Beginner,Computer Science,119,Medium,97,69,Yes
+Student_94,15,Other,Australia,Victoria,Melbourne,Artist,Middle,High School,Advanced,Computer Science,183,Easy,87,81,Yes
+Student_95,14,Female,Australia,Western Australia,Perth,Artist,Low,Middle School,Intermediate,Computer Science,87,Medium,127,76,Yes
+Student_96,17,Female,India,Delhi,Delhi,Engineer,Middle,High School,Beginner,Math,55,Easy,108,61,Yes
+Student_97,17,Female,UK,England,Manchester,Doctor,Middle,High School,Beginner,History,199,Medium,90,70,Yes
+Student_98,17,Male,Australia,Western Australia,Perth,Engineer,Low,High School,Beginner,Music,200,Hard,95,74,Yes
+Student_99,14,Male,Australia,Victoria,Melbourne,Unemployed,Middle,Middle School,Advanced,Computer Science,229,Hard,127,90,Yes
+Student_100,6,Female,India,Tamil Nadu,Coimbatore,Other,Middle,Elementary,Intermediate,Music,197,Medium,85,73,Yes
+Student_101,14,Female,India,Maharashtra,Nagpur,Engineer,Low,Middle School,Beginner,History,227,Medium,73,56,Yes
+Student_102,12,Female,Australia,Western Australia,Perth,Other,Middle,Middle School,Beginner,Art,188,Hard,104,67,Yes
+Student_103,14,Male,USA,California,San Francisco,Business Owner,Low,Middle School,Beginner,Computer Science,165,Medium,104,78,Yes
+Student_104,13,Female,Australia,Victoria,Melbourne,Teacher,Middle,Middle School,Beginner,Music,41,Easy,109,82,Yes
+Student_105,6,Male,Australia,Western Australia,Perth,Engineer,Low,Elementary,Intermediate,Literature,85,Medium,110,76,Yes
+Student_106,17,Male,India,Maharashtra,Mumbai,Business Owner,Middle,High School,Advanced,Music,40,Easy,126,78,Yes
+Student_107,13,Female,India,Uttar Pradesh,Kanpur,Admin,Low,Middle School,Intermediate,Computer Science,119,Medium,74,70,Yes
+Student_108,13,Female,Australia,NSW,Sydney,Admin,Middle,Middle School,Beginner,Science,147,Medium,81,62,Yes
+Student_109,16,Female,Australia,NSW,Sydney,Engineer,Low,High School,Intermediate,Math,63,Medium,109,72,Yes
+Student_110,8,Female,Australia,Victoria,Melbourne,Engineer,Middle,Elementary,Beginner,Literature,122,Medium,83,72,Yes
+Student_111,6,Male,India,Karnataka,Bangalore,Artist,Middle,Elementary,Advanced,Literature,66,Easy,78,71,Yes
+Student_112,13,Female,Australia,Queensland,Brisbane,Teacher,Middle,Middle School,Advanced,Science,58,Medium,127,81,Yes
+Student_113,8,Male,Australia,Victoria,Melbourne,Teacher,Middle,Elementary,Advanced,Computer Science,48,Hard,75,59,Yes
+Student_114,8,Female,Canada,Quebec,Montreal,Teacher,Middle,Elementary,Beginner,Math,73,Medium,94,58,Yes
+Student_115,6,Female,USA,Florida,Miami,Unemployed,Middle,Elementary,Intermediate,Literature,109,Medium,99,70,Yes
+Student_116,16,Female,UK,Scotland,Edinburgh,Other,Middle,High School,Advanced,Math,104,Hard,119,64,Yes
+Student_117,10,Female,USA,New York,Buffalo,Artist,Low,Elementary,Beginner,Literature,36,Hard,71,51,Yes
+Student_118,15,Female,Canada,Ontario,Ottawa,Other,Middle,High School,Beginner,Computer Science,99,Easy,106,67,Yes
+Student_119,12,Female,UK,Wales,Cardiff,Doctor,Middle,Middle School,Intermediate,Art,207,Easy,86,79,Yes
+Student_120,15,Male,Australia,Victoria,Melbourne,Business Owner,High,High School,Advanced,Literature,178,Medium,109,61,Yes
+Student_121,14,Male,Canada,Ontario,Ottawa,Teacher,Middle,Middle School,Beginner,Art,92,Hard,86,65,Yes
+Student_122,17,Male,Australia,NSW,Sydney,Service Worker,Middle,High School,Intermediate,Literature,225,Hard,123,78,Yes
+Student_123,12,Male,India,Maharashtra,Pune,Other,Low,Middle School,Advanced,History,68,Hard,86,74,Yes
+Student_124,14,Female,Canada,Alberta,Calgary,Service Worker,Middle,Middle School,Intermediate,Computer Science,120,Medium,70,60,Yes
+Student_125,13,Female,India,Tamil Nadu,Chennai,Doctor,Middle,Middle School,Intermediate,Science,21,Medium,88,61,Yes
+Student_126,17,Male,Canada,Alberta,Calgary,Service Worker,Middle,High School,Beginner,Art,195,Easy,96,84,Yes
+Student_127,7,Male,Canada,Ontario,Ottawa,Engineer,Middle,Elementary,Beginner,Science,161,Easy,116,82,Yes
+Student_128,6,Male,India,Tamil Nadu,Coimbatore,Unemployed,Middle,Elementary,Beginner,Computer Science,78,Medium,81,65,Yes
+Student_129,12,Female,UK,Wales,Cardiff,Business Owner,Middle,Middle School,Intermediate,Music,116,Medium,81,73,Yes
+Student_130,12,Female,USA,Texas,Austin,Business Owner,Middle,Middle School,Beginner,Science,118,Medium,114,73,Yes
+Student_131,13,Male,Australia,Western Australia,Perth,Service Worker,Middle,Middle School,Intermediate,Computer Science,205,Medium,79,79,Yes
+Student_132,10,Female,Canada,Alberta,Edmonton,Service Worker,Low,Elementary,Intermediate,Science,122,Easy,97,62,Yes
+Student_133,8,Female,Australia,Victoria,Melbourne,Engineer,Middle,Elementary,Beginner,Art,205,Medium,97,87,Yes
+Student_134,17,Male,India,Uttar Pradesh,Kanpur,Service Worker,Middle,High School,Advanced,History,198,Easy,103,66,Yes
+Student_135,13,Female,Australia,NSW,Sydney,Teacher,Low,Middle School,Advanced,Science,231,Medium,88,84,Yes
+Student_136,11,Female,India,Delhi,Delhi,Admin,Low,Middle School,Advanced,Art,21,Medium,86,47,No
+Student_137,16,Male,Australia,Victoria,Melbourne,Unemployed,High,High School,Intermediate,Literature,60,Medium,105,85,Yes
+Student_138,8,Male,USA,New York,New York City,Unemployed,Low,Elementary,Intermediate,Computer Science,230,Hard,86,69,Yes
+Student_139,6,Male,USA,Texas,Austin,Service Worker,Middle,Elementary,Intermediate,Math,142,Easy,79,63,Yes
+Student_140,8,Male,USA,Illinois,Chicago,Business Owner,Middle,Elementary,Beginner,Music,101,Medium,118,90,Yes
+Student_141,10,Female,USA,California,San Francisco,Engineer,Middle,Elementary,Intermediate,Math,163,Medium,107,67,Yes
+Student_142,8,Female,USA,Illinois,Chicago,Admin,Middle,Elementary,Beginner,Computer Science,151,Medium,126,79,Yes
+Student_143,6,Male,USA,New York,New York City,Teacher,Low,Elementary,Beginner,History,159,Hard,111,92,Yes
+Student_144,10,Male,India,Tamil Nadu,Coimbatore,Business Owner,Middle,Elementary,Advanced,Science,48,Medium,80,65,Yes
+Student_145,15,Male,Canada,Alberta,Calgary,Teacher,Middle,High School,Advanced,History,154,Hard,101,52,Yes
+Student_146,12,Male,Australia,Queensland,Brisbane,Engineer,Middle,Middle School,Advanced,Math,33,Easy,84,65,Yes
+Student_147,12,Female,USA,New York,New York City,Service Worker,Low,Middle School,Beginner,Music,31,Hard,75,51,Yes
+Student_148,16,Male,India,Karnataka,Bangalore,Engineer,Middle,High School,Beginner,Art,118,Easy,93,75,Yes
+Student_149,14,Male,India,Tamil Nadu,Coimbatore,Admin,Low,Middle School,Beginner,Music,152,Hard,114,71,Yes
+Student_150,15,Male,India,Tamil Nadu,Chennai,Doctor,Low,High School,Intermediate,Computer Science,100,Medium,104,76,Yes
+Student_151,15,Female,Canada,British Columbia,Vancouver,Engineer,Low,High School,Beginner,Computer Science,125,Medium,79,53,Yes
+Student_152,17,Male,Australia,Victoria,Melbourne,Business Owner,Low,High School,Advanced,History,51,Medium,92,61,Yes
+Student_153,8,Female,Canada,British Columbia,Victoria,Engineer,Middle,Elementary,Advanced,Art,93,Hard,97,66,Yes
+Student_154,12,Male,UK,Northern Ireland,Belfast,Teacher,Low,Middle School,Beginner,History,190,Easy,74,66,Yes
+Student_155,6,Female,India,Uttar Pradesh,Lucknow,Admin,High,Elementary,Beginner,Science,100,Medium,110,82,Yes
+Student_156,9,Female,UK,Northern Ireland,Belfast,Engineer,High,Elementary,Advanced,Literature,88,Hard,96,57,Yes
+Student_157,9,Male,USA,Illinois,Chicago,Unemployed,Middle,Elementary,Beginner,Art,64,Medium,79,63,Yes
+Student_158,10,Male,USA,Florida,Orlando,Engineer,Low,Elementary,Advanced,Literature,125,Easy,78,69,Yes
+Student_159,12,Female,Canada,Ontario,Ottawa,Teacher,Middle,Middle School,Intermediate,Music,156,Medium,116,69,Yes
+Student_160,12,Female,Australia,NSW,Sydney,Admin,Middle,Middle School,Advanced,Science,196,Medium,94,73,Yes
+Student_161,16,Male,UK,England,Birmingham,Doctor,Middle,High School,Intermediate,Literature,180,Hard,117,64,Yes
+Student_162,9,Female,Australia,NSW,Sydney,Engineer,Low,Elementary,Beginner,Math,119,Medium,123,74,Yes
+Student_163,12,Female,Canada,Quebec,Montreal,Doctor,Middle,Middle School,Beginner,Music,165,Medium,115,78,Yes
+Student_164,16,Female,USA,Illinois,Chicago,Teacher,Middle,High School,Intermediate,Literature,28,Hard,91,47,No
+Student_165,8,Male,Australia,Western Australia,Perth,Unemployed,Middle,Elementary,Beginner,Science,81,Medium,70,65,Yes
+Student_166,11,Female,Australia,Queensland,Brisbane,Doctor,Low,Middle School,Intermediate,Literature,204,Easy,104,83,Yes
+Student_167,17,Male,USA,California,San Francisco,Admin,Middle,High School,Beginner,Computer Science,48,Easy,131,86,Yes
+Student_168,7,Female,UK,Northern Ireland,Belfast,Unemployed,Low,Elementary,Advanced,History,144,Medium,99,72,Yes
+Student_169,15,Male,USA,Texas,Dallas,Business Owner,Low,High School,Beginner,Math,133,Easy,70,58,Yes
+Student_170,14,Male,Australia,Western Australia,Perth,Other,Middle,Middle School,Advanced,Computer Science,225,Hard,89,68,Yes
+Student_171,10,Male,UK,England,London,Doctor,Low,Elementary,Advanced,Computer Science,172,Medium,97,78,Yes
+Student_172,11,Female,UK,Wales,Cardiff,Other,Low,Middle School,Intermediate,Science,162,Easy,83,63,Yes
+Student_173,17,Male,USA,Florida,Orlando,Engineer,Low,High School,Beginner,History,153,Medium,70,55,Yes
+Student_174,17,Male,Australia,Queensland,Brisbane,Service Worker,Middle,High School,Intermediate,History,139,Medium,98,69,Yes
+Student_175,17,Male,Canada,Quebec,Quebec City,Business Owner,Middle,High School,Beginner,Art,189,Hard,88,63,Yes
+Student_176,17,Female,Australia,Western Australia,Perth,Artist,Middle,High School,Advanced,Music,176,Hard,126,76,Yes
+Student_177,9,Other,India,Delhi,Delhi,Service Worker,Middle,Elementary,Advanced,Math,98,Medium,101,68,Yes
+Student_178,16,Male,Canada,Quebec,Quebec City,Admin,Low,High School,Beginner,Music,112,Medium,107,74,Yes
+Student_179,15,Female,UK,Scotland,Glasgow,Engineer,Middle,High School,Beginner,Science,23,Medium,98,75,Yes
+Student_180,12,Female,Canada,Quebec,Quebec City,Teacher,Middle,Middle School,Intermediate,Math,101,Medium,101,75,Yes
+Student_181,17,Female,UK,England,London,Admin,Low,High School,Beginner,Art,204,Easy,75,73,Yes
+Student_182,14,Male,UK,England,London,Service Worker,Middle,Middle School,Beginner,Literature,196,Easy,84,66,Yes
+Student_183,12,Male,Canada,Alberta,Edmonton,Other,High,Middle School,Beginner,Computer Science,191,Medium,116,74,Yes
+Student_184,6,Male,UK,Northern Ireland,Belfast,Admin,Low,Elementary,Intermediate,Math,227,Easy,103,89,Yes
+Student_185,6,Male,UK,Northern Ireland,Belfast,Other,Low,Elementary,Beginner,Music,94,Easy,94,69,Yes
+Student_186,14,Male,India,Karnataka,Mysore,Admin,Low,Middle School,Advanced,Computer Science,33,Medium,107,61,Yes
+Student_187,16,Female,Australia,Western Australia,Perth,Teacher,Low,High School,Intermediate,Science,150,Easy,107,96,Yes
+Student_188,14,Male,Australia,Victoria,Melbourne,Engineer,High,Middle School,Intermediate,Music,133,Medium,129,93,Yes
+Student_189,9,Male,India,Uttar Pradesh,Kanpur,Admin,Middle,Elementary,Advanced,Literature,81,Medium,102,69,Yes
+Student_190,14,Female,Canada,Quebec,Montreal,Service Worker,Middle,Middle School,Advanced,Science,125,Hard,84,53,Yes
+Student_191,8,Male,USA,New York,New York City,Engineer,Middle,Elementary,Advanced,Literature,83,Medium,98,74,Yes
+Student_192,12,Female,USA,New York,New York City,Doctor,Low,Middle School,Beginner,Literature,121,Easy,109,75,Yes
+Student_193,11,Female,USA,New York,Buffalo,Other,Middle,Middle School,Advanced,Computer Science,192,Medium,114,86,Yes
+Student_194,13,Male,India,Tamil Nadu,Chennai,Business Owner,Middle,Middle School,Beginner,Science,125,Hard,75,55,Yes
+Student_195,16,Female,India,Uttar Pradesh,Kanpur,Business Owner,Middle,High School,Intermediate,Science,229,Hard,103,86,Yes
+Student_196,14,Female,UK,Northern Ireland,Belfast,Business Owner,High,Middle School,Intermediate,Math,205,Medium,86,67,Yes
+Student_197,10,Female,USA,New York,Buffalo,Teacher,Middle,Elementary,Advanced,Music,39,Medium,91,83,Yes
+Student_198,6,Female,Canada,Alberta,Edmonton,Doctor,Middle,Elementary,Beginner,Science,77,Hard,112,69,Yes
+Student_199,8,Female,Canada,Quebec,Montreal,Doctor,Middle,Elementary,Advanced,Math,131,Easy,111,91,Yes
+Student_200,15,Female,USA,Texas,Houston,Engineer,Low,High School,Advanced,History,236,Medium,89,69,Yes
+Student_201,17,Male,USA,New York,New York City,Admin,Low,High School,Beginner,History,76,Medium,97,57,Yes
+Student_202,13,Male,USA,Illinois,Chicago,Artist,Low,Middle School,Advanced,History,224,Easy,91,60,Yes
+Student_203,16,Male,India,Karnataka,Mysore,Unemployed,Low,High School,Intermediate,Art,215,Medium,143,99,Yes
+Student_204,11,Female,India,Tamil Nadu,Chennai,Unemployed,Middle,Middle School,Advanced,Science,138,Easy,104,79,Yes
+Student_205,13,Male,India,Delhi,Delhi,Teacher,Middle,Middle School,Beginner,Art,225,Medium,87,62,Yes
+Student_206,14,Female,Australia,Victoria,Melbourne,Service Worker,High,Middle School,Beginner,Music,116,Hard,119,82,Yes
+Student_207,9,Female,Canada,Quebec,Montreal,Business Owner,Middle,Elementary,Intermediate,Science,111,Easy,120,91,Yes
+Student_208,6,Female,Canada,British Columbia,Victoria,Unemployed,Middle,Elementary,Beginner,Math,71,Hard,126,82,Yes
+Student_209,6,Other,UK,Northern Ireland,Belfast,Teacher,Low,Elementary,Beginner,Art,56,Easy,131,71,Yes
+Student_210,15,Female,India,Karnataka,Mysore,Service Worker,Low,High School,Intermediate,Art,27,Medium,110,79,Yes
+Student_211,9,Female,Australia,Queensland,Brisbane,Service Worker,Middle,Elementary,Advanced,Music,63,Easy,94,74,Yes
+Student_212,17,Male,Australia,Queensland,Brisbane,Teacher,Middle,High School,Intermediate,Art,117,Hard,96,76,Yes
+Student_213,12,Female,Canada,British Columbia,Vancouver,Engineer,Middle,Middle School,Advanced,Literature,152,Medium,95,75,Yes
+Student_214,7,Male,India,Karnataka,Mysore,Service Worker,Low,Elementary,Intermediate,Math,137,Medium,93,71,Yes
+Student_215,8,Male,UK,Wales,Cardiff,Admin,Low,Elementary,Advanced,History,88,Hard,118,80,Yes
+Student_216,6,Female,India,Delhi,Delhi,Doctor,Middle,Elementary,Intermediate,Math,178,Medium,100,81,Yes
+Student_217,10,Female,USA,California,San Diego,Service Worker,Low,Elementary,Advanced,Literature,64,Hard,114,76,Yes
+Student_218,6,Male,India,Delhi,Delhi,Artist,Low,Elementary,Intermediate,Music,156,Medium,110,72,Yes
+Student_219,13,Female,USA,New York,Buffalo,Admin,Middle,Middle School,Advanced,Music,51,Hard,83,56,Yes
+Student_220,6,Female,USA,Illinois,Chicago,Teacher,Low,Elementary,Intermediate,Science,52,Medium,74,46,No
+Student_221,16,Female,UK,Wales,Cardiff,Unemployed,Middle,High School,Beginner,Math,145,Easy,81,67,Yes
+Student_222,6,Female,Canada,Alberta,Edmonton,Teacher,Low,Elementary,Advanced,Music,86,Medium,93,74,Yes
+Student_223,7,Female,India,Uttar Pradesh,Lucknow,Doctor,Low,Elementary,Intermediate,Art,49,Easy,102,78,Yes
+Student_224,7,Other,USA,Illinois,Chicago,Engineer,Middle,Elementary,Advanced,Music,133,Medium,90,61,Yes
+Student_225,17,Female,India,Tamil Nadu,Coimbatore,Engineer,Middle,High School,Advanced,Music,223,Medium,110,89,Yes
+Student_226,11,Female,Canada,British Columbia,Victoria,Business Owner,Middle,Middle School,Intermediate,Music,48,Medium,92,89,Yes
+Student_227,12,Other,Canada,Alberta,Edmonton,Teacher,Middle,Middle School,Advanced,Music,150,Easy,103,71,Yes
+Student_228,10,Female,Australia,Queensland,Brisbane,Unemployed,Low,Elementary,Intermediate,History,237,Easy,101,81,Yes
+Student_229,6,Male,Canada,Ontario,Toronto,Engineer,Middle,Elementary,Beginner,History,204,Medium,126,78,Yes
+Student_230,6,Male,UK,Scotland,Edinburgh,Doctor,Low,Elementary,Advanced,Science,49,Hard,85,57,Yes
+Student_231,8,Male,USA,Texas,Austin,Doctor,Middle,Elementary,Beginner,Music,156,Medium,133,85,Yes
+Student_232,7,Male,Australia,Western Australia,Perth,Engineer,Middle,Elementary,Advanced,Math,173,Medium,91,65,Yes
+Student_233,10,Female,UK,Wales,Cardiff,Engineer,High,Elementary,Advanced,Literature,149,Medium,79,64,Yes
+Student_234,17,Female,India,Delhi,Delhi,Artist,Middle,High School,Advanced,Science,81,Medium,96,69,Yes
+Student_235,15,Female,USA,Illinois,Chicago,Business Owner,Low,High School,Intermediate,Math,22,Easy,145,88,Yes
+Student_236,11,Male,Canada,British Columbia,Vancouver,Artist,Low,Middle School,Beginner,Music,193,Medium,113,90,Yes
+Student_237,12,Female,USA,Texas,Dallas,Business Owner,Middle,Middle School,Advanced,Computer Science,87,Easy,109,77,Yes
+Student_238,9,Female,India,Maharashtra,Mumbai,Service Worker,Middle,Elementary,Intermediate,Music,44,Hard,111,61,Yes
+Student_239,12,Female,Australia,Western Australia,Perth,Engineer,Middle,Middle School,Advanced,History,198,Easy,88,82,Yes
+Student_240,16,Female,Australia,Victoria,Melbourne,Business Owner,Low,High School,Intermediate,Literature,160,Medium,104,77,Yes
+Student_241,13,Female,Australia,Western Australia,Perth,Other,Low,Middle School,Advanced,Art,63,Easy,100,72,Yes
+Student_242,16,Male,Canada,Ontario,Ottawa,Business Owner,Low,High School,Beginner,Literature,182,Easy,127,91,Yes
+Student_243,6,Female,UK,Northern Ireland,Belfast,Service Worker,High,Elementary,Beginner,Art,74,Medium,98,65,Yes
+Student_244,11,Male,UK,Scotland,Glasgow,Doctor,Middle,Middle School,Advanced,Literature,234,Easy,94,76,Yes
+Student_245,13,Male,USA,New York,New York City,Admin,High,Middle School,Intermediate,History,156,Easy,82,57,Yes
+Student_246,10,Female,Canada,Alberta,Edmonton,Admin,Low,Elementary,Advanced,Art,149,Medium,102,70,Yes
+Student_247,9,Male,Australia,Victoria,Melbourne,Business Owner,Middle,Elementary,Intermediate,Math,208,Easy,104,67,Yes
+Student_248,7,Female,Australia,Victoria,Melbourne,Other,Middle,Elementary,Advanced,Art,60,Easy,81,62,Yes
+Student_249,11,Male,India,Maharashtra,Mumbai,Engineer,Low,Middle School,Intermediate,Science,191,Hard,106,76,Yes
+Student_250,11,Female,India,Karnataka,Mysore,Engineer,Middle,Middle School,Beginner,Math,83,Medium,103,58,Yes
+Student_251,16,Male,Australia,Queensland,Brisbane,Admin,High,High School,Advanced,Science,50,Hard,115,65,Yes
+Student_252,6,Other,Australia,Queensland,Brisbane,Unemployed,Middle,Elementary,Beginner,Music,66,Hard,118,69,Yes
+Student_253,14,Female,Canada,Alberta,Edmonton,Engineer,Middle,Middle School,Beginner,Literature,149,Medium,101,71,Yes
+Student_254,17,Male,UK,Northern Ireland,Belfast,Teacher,Low,High School,Advanced,Math,115,Easy,84,67,Yes
+Student_255,16,Female,India,Delhi,Delhi,Engineer,Low,High School,Advanced,Literature,229,Medium,87,75,Yes
+Student_256,11,Other,UK,Northern Ireland,Belfast,Teacher,High,Middle School,Intermediate,Music,96,Hard,126,76,Yes
+Student_257,8,Male,Canada,British Columbia,Vancouver,Admin,Low,Elementary,Intermediate,Computer Science,129,Medium,102,72,Yes
+Student_258,9,Male,Australia,NSW,Sydney,Business Owner,Middle,Elementary,Beginner,Literature,88,Medium,126,74,Yes
+Student_259,17,Female,UK,Northern Ireland,Belfast,Doctor,Middle,High School,Intermediate,Music,77,Easy,107,83,Yes
+Student_260,16,Female,Australia,NSW,Sydney,Doctor,Middle,High School,Intermediate,Literature,125,Hard,111,59,Yes
+Student_261,9,Female,Australia,Victoria,Melbourne,Engineer,High,Elementary,Advanced,Music,63,Medium,114,78,Yes
+Student_262,8,Female,USA,California,Los Angeles,Teacher,Low,Elementary,Intermediate,Science,93,Hard,81,62,Yes
+Student_263,15,Male,UK,England,Manchester,Service Worker,Low,High School,Beginner,Music,75,Easy,104,77,Yes
+Student_264,8,Male,UK,Scotland,Glasgow,Other,Low,Elementary,Intermediate,Art,190,Easy,81,74,Yes
+Student_265,8,Female,Australia,Western Australia,Perth,Unemployed,Middle,Elementary,Beginner,Computer Science,146,Easy,95,61,Yes
+Student_266,9,Male,Canada,Ontario,Toronto,Engineer,Low,Elementary,Advanced,Literature,236,Medium,109,91,Yes
+Student_267,12,Male,USA,Illinois,Chicago,Unemployed,Low,Middle School,Beginner,Music,181,Easy,84,81,Yes
+Student_268,9,Female,Australia,Queensland,Brisbane,Admin,Middle,Elementary,Intermediate,Music,49,Easy,108,67,Yes
+Student_269,14,Female,India,Tamil Nadu,Coimbatore,Admin,High,Middle School,Advanced,Literature,90,Hard,77,64,Yes
+Student_270,6,Female,India,Uttar Pradesh,Lucknow,Business Owner,Low,Elementary,Intermediate,Computer Science,217,Easy,117,87,Yes
+Student_271,13,Female,USA,Texas,Austin,Artist,Middle,Middle School,Advanced,Computer Science,137,Hard,90,59,Yes
+Student_272,12,Female,Canada,Alberta,Edmonton,Doctor,High,Middle School,Advanced,Music,74,Medium,84,73,Yes
+Student_273,7,Female,Australia,Western Australia,Perth,Engineer,Low,Elementary,Intermediate,Math,86,Hard,78,54,Yes
+Student_274,13,Female,UK,Scotland,Edinburgh,Teacher,Low,Middle School,Intermediate,Science,160,Medium,91,81,Yes
+Student_275,6,Male,USA,Texas,Austin,Teacher,Low,Elementary,Advanced,Computer Science,22,Hard,71,57,Yes
+Student_276,16,Male,Canada,Alberta,Calgary,Business Owner,Middle,High School,Advanced,Computer Science,45,Hard,91,67,Yes
+Student_277,17,Female,UK,England,Birmingham,Admin,Low,High School,Intermediate,History,76,Easy,116,83,Yes
+Student_278,14,Female,India,Tamil Nadu,Coimbatore,Business Owner,High,Middle School,Beginner,Art,145,Easy,97,81,Yes
+Student_279,14,Male,India,Karnataka,Bangalore,Engineer,Middle,Middle School,Intermediate,Computer Science,171,Easy,82,75,Yes
+Student_280,7,Male,UK,Wales,Cardiff,Other,Middle,Elementary,Advanced,Science,72,Medium,103,64,Yes
+Student_281,12,Male,USA,California,San Diego,Other,Low,Middle School,Intermediate,Art,217,Hard,102,72,Yes
+Student_282,15,Male,India,Delhi,Delhi,Admin,Middle,High School,Beginner,Art,62,Medium,129,84,Yes
+Student_283,8,Female,Australia,NSW,Sydney,Other,Middle,Elementary,Intermediate,Literature,207,Medium,111,84,Yes
+Student_284,12,Male,UK,Northern Ireland,Belfast,Business Owner,Middle,Middle School,Advanced,Literature,205,Easy,104,85,Yes
+Student_285,17,Female,UK,England,Manchester,Other,Middle,High School,Intermediate,Literature,68,Hard,113,51,Yes
+Student_286,15,Female,India,Maharashtra,Nagpur,Engineer,Middle,High School,Advanced,Literature,61,Hard,97,60,Yes
+Student_287,14,Female,USA,Florida,Orlando,Doctor,High,Middle School,Advanced,History,223,Easy,98,78,Yes
+Student_288,9,Female,Australia,NSW,Sydney,Teacher,Middle,Elementary,Intermediate,Computer Science,213,Medium,124,74,Yes
+Student_289,17,Male,USA,Illinois,Chicago,Teacher,Middle,High School,Advanced,Literature,30,Easy,75,71,Yes
+Student_290,6,Female,Canada,Quebec,Quebec City,Engineer,Low,Elementary,Advanced,Music,122,Medium,114,59,Yes
+Student_291,7,Male,Canada,British Columbia,Victoria,Service Worker,Low,Elementary,Beginner,Math,117,Medium,98,77,Yes
+Student_292,6,Male,India,Delhi,Delhi,Admin,Low,Elementary,Beginner,Literature,237,Easy,95,91,Yes
+Student_293,17,Female,India,Maharashtra,Nagpur,Service Worker,Middle,High School,Beginner,Computer Science,165,Medium,91,69,Yes
+Student_294,10,Male,India,Delhi,Delhi,Engineer,Middle,Elementary,Beginner,Literature,104,Medium,102,70,Yes
+Student_295,10,Male,Canada,Alberta,Calgary,Unemployed,Middle,Elementary,Advanced,History,119,Medium,99,78,Yes
+Student_296,16,Female,USA,Florida,Miami,Service Worker,Middle,High School,Intermediate,Science,123,Medium,93,63,Yes
+Student_297,12,Male,USA,New York,Buffalo,Artist,Middle,Middle School,Advanced,Science,199,Easy,89,82,Yes
+Student_298,14,Female,India,Maharashtra,Pune,Service Worker,High,Middle School,Advanced,Computer Science,65,Medium,71,52,Yes
+Student_299,14,Male,Australia,NSW,Sydney,Teacher,Low,Middle School,Advanced,Music,63,Medium,89,55,Yes
+Student_300,8,Female,USA,Florida,Orlando,Doctor,Middle,Elementary,Intermediate,Science,41,Medium,92,67,Yes
+Student_301,8,Female,Canada,Alberta,Calgary,Other,Low,Elementary,Beginner,Science,200,Easy,102,80,Yes
+Student_302,8,Female,UK,Northern Ireland,Belfast,Teacher,Low,Elementary,Advanced,Math,206,Medium,129,70,Yes
+Student_303,9,Female,UK,Scotland,Glasgow,Business Owner,Low,Elementary,Advanced,Computer Science,133,Hard,90,75,Yes
+Student_304,13,Male,UK,Northern Ireland,Belfast,Unemployed,Low,Middle School,Beginner,Music,144,Easy,84,69,Yes
+Student_305,11,Female,Australia,Queensland,Brisbane,Admin,Middle,Middle School,Advanced,Computer Science,143,Medium,89,73,Yes
+Student_306,13,Male,India,Uttar Pradesh,Lucknow,Engineer,Middle,Middle School,Intermediate,Science,49,Easy,102,86,Yes
+Student_307,6,Female,Canada,British Columbia,Vancouver,Engineer,Low,Elementary,Advanced,Science,27,Medium,108,71,Yes
+Student_308,13,Male,Australia,Western Australia,Perth,Engineer,Middle,Middle School,Advanced,Science,117,Easy,110,89,Yes
+Student_309,9,Female,Canada,Quebec,Montreal,Service Worker,Middle,Elementary,Beginner,Art,76,Medium,112,65,Yes
+Student_310,16,Male,Canada,Alberta,Edmonton,Business Owner,Low,High School,Advanced,History,130,Medium,114,87,Yes
+Student_311,6,Female,India,Delhi,Delhi,Engineer,Middle,Elementary,Advanced,Literature,92,Medium,95,61,Yes
+Student_312,13,Female,UK,Northern Ireland,Belfast,Other,Low,Middle School,Intermediate,History,134,Medium,130,76,Yes
+Student_313,9,Female,India,Maharashtra,Nagpur,Business Owner,Middle,Elementary,Beginner,Computer Science,39,Medium,94,54,Yes
+Student_314,11,Male,Australia,Queensland,Brisbane,Teacher,Middle,Middle School,Beginner,Math,44,Medium,101,70,Yes
+Student_315,13,Female,Australia,Victoria,Melbourne,Business Owner,Low,Middle School,Intermediate,Literature,38,Easy,119,83,Yes
+Student_316,9,Male,Australia,Western Australia,Perth,Service Worker,Low,Elementary,Advanced,Math,24,Easy,108,80,Yes
+Student_317,8,Male,India,Karnataka,Mysore,Engineer,Middle,Elementary,Beginner,Music,94,Hard,70,44,No
+Student_318,14,Male,Canada,Ontario,Ottawa,Teacher,High,Middle School,Beginner,Art,226,Easy,100,84,Yes
+Student_319,8,Male,Canada,British Columbia,Vancouver,Unemployed,Low,Elementary,Advanced,Computer Science,147,Medium,112,79,Yes
+Student_320,14,Female,USA,Illinois,Chicago,Business Owner,Middle,Middle School,Advanced,Art,91,Hard,79,63,Yes
+Student_321,7,Female,Australia,NSW,Sydney,Business Owner,Middle,Elementary,Beginner,Computer Science,230,Easy,111,79,Yes
+Student_322,7,Male,Canada,British Columbia,Victoria,Business Owner,High,Elementary,Advanced,Math,234,Medium,105,58,Yes
+Student_323,7,Male,USA,Florida,Miami,Engineer,Middle,Elementary,Beginner,Math,174,Medium,117,84,Yes
+Student_324,11,Male,Canada,British Columbia,Vancouver,Teacher,Middle,Middle School,Advanced,Math,59,Hard,89,58,Yes
+Student_325,8,Male,Australia,Queensland,Brisbane,Business Owner,Middle,Elementary,Advanced,Computer Science,45,Hard,114,69,Yes
+Student_326,14,Other,UK,Scotland,Edinburgh,Teacher,Middle,Middle School,Intermediate,Science,46,Medium,102,67,Yes
+Student_327,9,Male,Australia,Victoria,Melbourne,Engineer,Middle,Elementary,Advanced,Math,209,Easy,126,90,Yes
+Student_328,6,Male,India,Karnataka,Bangalore,Unemployed,Low,Elementary,Intermediate,Art,102,Medium,141,88,Yes
+Student_329,9,Male,Canada,Ontario,Toronto,Other,Low,Elementary,Advanced,Music,147,Medium,123,64,Yes
+Student_330,6,Female,Canada,British Columbia,Victoria,Admin,Middle,Elementary,Beginner,Literature,197,Medium,107,86,Yes
+Student_331,10,Other,India,Delhi,Delhi,Unemployed,Middle,Elementary,Beginner,Computer Science,189,Easy,134,88,Yes
+Student_332,9,Female,India,Maharashtra,Pune,Teacher,Low,Elementary,Advanced,Art,176,Easy,109,95,Yes
+Student_333,13,Female,UK,Northern Ireland,Belfast,Other,Middle,Middle School,Advanced,History,186,Medium,86,66,Yes
+Student_334,13,Female,Canada,Alberta,Edmonton,Teacher,Middle,Middle School,Beginner,Music,207,Medium,99,70,Yes
+Student_335,12,Male,Canada,British Columbia,Victoria,Other,Low,Middle School,Advanced,History,188,Medium,111,77,Yes
+Student_336,8,Female,UK,England,Manchester,Other,High,Elementary,Intermediate,Literature,52,Medium,112,75,Yes
+Student_337,6,Female,USA,New York,Buffalo,Admin,Low,Elementary,Intermediate,Science,230,Hard,83,64,Yes
+Student_338,6,Female,UK,England,London,Other,Low,Elementary,Intermediate,Math,230,Medium,83,76,Yes
+Student_339,17,Female,Australia,Queensland,Brisbane,Service Worker,Middle,High School,Intermediate,Computer Science,116,Easy,94,71,Yes
+Student_340,16,Female,Canada,British Columbia,Vancouver,Teacher,Middle,High School,Intermediate,Art,130,Easy,108,79,Yes
+Student_341,8,Female,India,Karnataka,Bangalore,Business Owner,Low,Elementary,Advanced,Math,35,Easy,109,92,Yes
+Student_342,11,Other,Australia,Western Australia,Perth,Service Worker,Middle,Middle School,Advanced,Art,42,Hard,102,66,Yes
+Student_343,12,Female,Canada,Ontario,Ottawa,Engineer,Middle,Middle School,Intermediate,Computer Science,154,Medium,87,72,Yes
+Student_344,11,Female,UK,Northern Ireland,Belfast,Service Worker,Low,Middle School,Advanced,History,45,Medium,126,63,Yes
+Student_345,11,Female,Australia,Victoria,Melbourne,Other,Low,Middle School,Advanced,Math,115,Medium,83,76,Yes
+Student_346,11,Male,Canada,Ontario,Toronto,Teacher,Middle,Middle School,Intermediate,Literature,31,Medium,119,81,Yes
+Student_347,8,Female,USA,Florida,Orlando,Admin,Low,Elementary,Advanced,Science,91,Hard,111,62,Yes
+Student_348,11,Male,USA,New York,New York City,Other,High,Middle School,Advanced,Literature,152,Medium,119,87,Yes
+Student_349,13,Female,India,Karnataka,Mysore,Other,Middle,Middle School,Advanced,Science,125,Easy,93,77,Yes
+Student_350,16,Other,Canada,British Columbia,Vancouver,Other,High,High School,Intermediate,Music,239,Easy,97,81,Yes
+Student_351,16,Female,USA,Florida,Orlando,Business Owner,Low,High School,Advanced,Art,136,Medium,100,82,Yes
+Student_352,7,Male,UK,Scotland,Edinburgh,Other,High,Elementary,Beginner,Math,216,Hard,92,64,Yes
+Student_353,10,Male,Canada,Alberta,Edmonton,Admin,Middle,Elementary,Beginner,Math,196,Medium,103,70,Yes
+Student_354,6,Male,UK,Wales,Cardiff,Teacher,Low,Elementary,Intermediate,Music,45,Hard,123,71,Yes
+Student_355,17,Female,UK,England,London,Business Owner,Low,High School,Beginner,Science,152,Medium,80,71,Yes
+Student_356,6,Male,USA,Illinois,Chicago,Admin,Low,Elementary,Intermediate,History,41,Easy,90,77,Yes
+Student_357,10,Male,Canada,Quebec,Montreal,Teacher,Middle,Elementary,Beginner,Computer Science,226,Easy,88,76,Yes
+Student_358,17,Male,Australia,Western Australia,Perth,Service Worker,Middle,High School,Beginner,Literature,32,Easy,98,64,Yes
+Student_359,8,Female,USA,California,San Francisco,Service Worker,Low,Elementary,Beginner,Music,175,Medium,97,93,Yes
+Student_360,9,Female,USA,Florida,Orlando,Teacher,Middle,Elementary,Intermediate,Art,180,Easy,111,74,Yes
+Student_361,8,Male,Canada,Quebec,Montreal,Service Worker,Low,Elementary,Intermediate,Music,126,Medium,100,72,Yes
+Student_362,6,Male,Canada,British Columbia,Victoria,Admin,Middle,Elementary,Advanced,Literature,42,Medium,104,75,Yes
+Student_363,6,Female,UK,Scotland,Edinburgh,Business Owner,Middle,Elementary,Intermediate,Literature,116,Medium,105,82,Yes
+Student_364,17,Female,Canada,Ontario,Toronto,Engineer,Middle,High School,Beginner,Art,37,Easy,103,68,Yes
+Student_365,17,Female,UK,England,Manchester,Engineer,Middle,High School,Beginner,Art,136,Medium,110,60,Yes
+Student_366,10,Male,USA,Illinois,Chicago,Doctor,Middle,Elementary,Intermediate,Math,49,Medium,98,62,Yes
+Student_367,11,Female,India,Uttar Pradesh,Lucknow,Other,Middle,Middle School,Intermediate,Literature,45,Medium,124,81,Yes
+Student_368,8,Female,Australia,NSW,Sydney,Teacher,Middle,Elementary,Intermediate,Computer Science,163,Hard,138,85,Yes
+Student_369,17,Female,USA,California,San Francisco,Service Worker,Middle,High School,Advanced,Computer Science,224,Easy,110,90,Yes
+Student_370,14,Female,Canada,Ontario,Toronto,Teacher,Low,Middle School,Beginner,Science,58,Hard,103,69,Yes
+Student_371,10,Male,Australia,Queensland,Brisbane,Doctor,Low,Elementary,Advanced,Music,180,Medium,109,87,Yes
+Student_372,13,Male,India,Uttar Pradesh,Kanpur,Unemployed,Low,Middle School,Advanced,Art,173,Medium,83,62,Yes
+Student_373,6,Female,India,Tamil Nadu,Chennai,Admin,Middle,Elementary,Beginner,Math,195,Medium,102,66,Yes
+Student_374,10,Female,UK,Scotland,Edinburgh,Engineer,Middle,Elementary,Beginner,Computer Science,212,Medium,89,75,Yes
+Student_375,8,Female,Australia,Victoria,Melbourne,Artist,Middle,Elementary,Intermediate,History,185,Easy,107,73,Yes
+Student_376,17,Female,UK,Northern Ireland,Belfast,Engineer,Low,High School,Intermediate,Math,149,Medium,89,59,Yes
+Student_377,6,Female,USA,Illinois,Chicago,Business Owner,Middle,Elementary,Advanced,Math,132,Medium,94,80,Yes
+Student_378,9,Female,Australia,Western Australia,Perth,Service Worker,Middle,Elementary,Intermediate,Computer Science,153,Medium,71,66,Yes
+Student_379,10,Male,USA,Texas,Dallas,Engineer,Middle,Elementary,Intermediate,History,65,Medium,82,63,Yes
+Student_380,12,Female,UK,England,Birmingham,Teacher,Middle,Middle School,Beginner,Science,69,Hard,105,65,Yes
+Student_381,6,Male,Australia,NSW,Sydney,Artist,Middle,Elementary,Beginner,Computer Science,185,Medium,86,69,Yes
+Student_382,8,Male,UK,Scotland,Edinburgh,Other,Low,Elementary,Intermediate,History,125,Easy,115,90,Yes
+Student_383,7,Other,Australia,Western Australia,Perth,Other,High,Elementary,Beginner,Math,235,Medium,85,60,Yes
+Student_384,14,Male,UK,Scotland,Edinburgh,Engineer,Low,Middle School,Intermediate,History,165,Medium,106,63,Yes
+Student_385,15,Male,India,Delhi,Delhi,Admin,High,High School,Beginner,Math,174,Medium,88,63,Yes
+Student_386,11,Male,UK,Wales,Cardiff,Doctor,Middle,Middle School,Beginner,Music,188,Medium,105,78,Yes
+Student_387,15,Female,India,Karnataka,Bangalore,Artist,Middle,High School,Beginner,Computer Science,91,Hard,76,72,Yes
+Student_388,8,Male,UK,Scotland,Glasgow,Admin,Low,Elementary,Beginner,Art,239,Easy,93,87,Yes
+Student_389,13,Male,Australia,Western Australia,Perth,Other,Middle,Middle School,Intermediate,Computer Science,93,Medium,87,70,Yes
+Student_390,13,Male,Australia,Western Australia,Perth,Other,Middle,Middle School,Advanced,Music,36,Hard,113,65,Yes
+Student_391,7,Male,Australia,Victoria,Melbourne,Service Worker,Low,Elementary,Beginner,Literature,209,Hard,106,62,Yes
+Student_392,11,Male,Canada,Ontario,Ottawa,Doctor,Middle,Middle School,Intermediate,Literature,176,Medium,81,72,Yes
+Student_393,12,Male,USA,Illinois,Chicago,Admin,High,Middle School,Intermediate,Literature,205,Hard,96,85,Yes
+Student_394,7,Female,Australia,NSW,Sydney,Teacher,Middle,Elementary,Beginner,Computer Science,89,Easy,88,69,Yes
+Student_395,16,Male,India,Tamil Nadu,Chennai,Service Worker,Middle,High School,Advanced,Science,225,Hard,114,71,Yes
+Student_396,15,Male,Australia,Queensland,Brisbane,Doctor,Low,High School,Beginner,Computer Science,169,Medium,119,77,Yes
+Student_397,7,Male,Canada,Alberta,Edmonton,Service Worker,Middle,Elementary,Intermediate,Music,25,Easy,78,69,Yes
+Student_398,15,Male,India,Uttar Pradesh,Lucknow,Teacher,Low,High School,Advanced,Music,45,Easy,112,77,Yes
+Student_399,6,Female,Canada,Quebec,Montreal,Teacher,Middle,Elementary,Intermediate,Art,186,Medium,87,78,Yes
+Student_400,13,Female,India,Tamil Nadu,Coimbatore,Other,High,Middle School,Beginner,History,159,Easy,96,76,Yes
+Student_401,6,Male,UK,Wales,Cardiff,Engineer,Middle,Elementary,Advanced,Computer Science,118,Medium,100,69,Yes
+Student_402,14,Male,USA,Illinois,Chicago,Business Owner,Low,Middle School,Intermediate,Computer Science,161,Easy,127,88,Yes
+Student_403,16,Male,USA,New York,New York City,Teacher,Middle,High School,Intermediate,Math,41,Easy,84,63,Yes
+Student_404,11,Female,Canada,Alberta,Edmonton,Engineer,Middle,Middle School,Intermediate,Music,70,Medium,112,86,Yes
+Student_405,12,Female,USA,Texas,Houston,Engineer,Middle,Middle School,Beginner,Math,170,Medium,82,75,Yes
+Student_406,15,Female,Canada,Ontario,Toronto,Teacher,Middle,High School,Advanced,Math,195,Medium,81,60,Yes
+Student_407,12,Male,Canada,Alberta,Calgary,Unemployed,Middle,Middle School,Beginner,Computer Science,218,Medium,100,70,Yes
+Student_408,15,Female,Canada,Ontario,Ottawa,Teacher,Middle,High School,Beginner,Science,123,Hard,100,71,Yes
+Student_409,8,Male,USA,Texas,Dallas,Other,Middle,Elementary,Beginner,History,197,Medium,70,67,Yes
+Student_410,7,Male,Canada,Alberta,Calgary,Service Worker,Low,Elementary,Advanced,History,108,Medium,117,78,Yes
+Student_411,14,Male,USA,Florida,Orlando,Business Owner,Low,Middle School,Beginner,Music,160,Medium,70,62,Yes
+Student_412,13,Male,Canada,Alberta,Edmonton,Service Worker,Middle,Middle School,Beginner,Art,232,Easy,97,84,Yes
+Student_413,17,Female,Australia,Western Australia,Perth,Business Owner,Middle,High School,Beginner,Music,157,Easy,119,82,Yes
+Student_414,15,Female,Canada,Alberta,Edmonton,Admin,Middle,High School,Beginner,Science,202,Medium,133,90,Yes
+Student_415,12,Male,India,Karnataka,Bangalore,Teacher,Middle,Middle School,Intermediate,Science,28,Hard,94,66,Yes
+Student_416,14,Female,Canada,Alberta,Edmonton,Doctor,Low,Middle School,Beginner,History,98,Easy,78,81,Yes
+Student_417,9,Other,UK,Wales,Cardiff,Unemployed,Middle,Elementary,Intermediate,Literature,71,Easy,119,75,Yes
+Student_418,9,Female,Canada,Quebec,Montreal,Other,Low,Elementary,Beginner,Math,149,Easy,112,81,Yes
+Student_419,6,Female,India,Maharashtra,Nagpur,Unemployed,Low,Elementary,Advanced,Math,172,Hard,92,56,Yes
+Student_420,13,Female,India,Karnataka,Bangalore,Artist,Middle,Middle School,Intermediate,History,32,Medium,90,78,Yes
+Student_421,17,Other,USA,Illinois,Chicago,Admin,Low,High School,Intermediate,Music,70,Easy,89,54,Yes
+Student_422,8,Female,Australia,NSW,Sydney,Business Owner,Middle,Elementary,Intermediate,Science,205,Medium,94,87,Yes
+Student_423,12,Male,Canada,British Columbia,Vancouver,Business Owner,Low,Middle School,Intermediate,Music,53,Medium,104,70,Yes
+Student_424,17,Male,USA,Florida,Miami,Teacher,Middle,High School,Advanced,Art,54,Medium,91,68,Yes
+Student_425,7,Female,Australia,Western Australia,Perth,Service Worker,Middle,Elementary,Beginner,Literature,150,Easy,93,74,Yes
+Student_426,7,Male,Canada,Quebec,Quebec City,Teacher,Low,Elementary,Intermediate,History,139,Hard,109,70,Yes
+Student_427,12,Female,UK,Northern Ireland,Belfast,Doctor,Middle,Middle School,Advanced,Math,206,Medium,77,73,Yes
+Student_428,11,Male,Canada,British Columbia,Victoria,Unemployed,Middle,Middle School,Intermediate,Computer Science,89,Medium,94,55,Yes
+Student_429,8,Male,India,Karnataka,Bangalore,Teacher,High,Elementary,Beginner,Music,195,Easy,74,67,Yes
+Student_430,14,Male,India,Delhi,Delhi,Engineer,Low,Middle School,Intermediate,Science,211,Medium,101,69,Yes
+Student_431,15,Male,UK,Scotland,Edinburgh,Engineer,Middle,High School,Advanced,Computer Science,166,Medium,70,68,Yes
+Student_432,11,Female,USA,Illinois,Chicago,Other,High,Middle School,Beginner,Art,86,Medium,113,73,Yes
+Student_433,15,Female,Australia,NSW,Sydney,Business Owner,High,High School,Advanced,History,229,Easy,80,80,Yes
+Student_434,15,Female,Canada,Alberta,Edmonton,Artist,Middle,High School,Beginner,Music,122,Medium,73,64,Yes
+Student_435,11,Female,India,Karnataka,Mysore,Unemployed,Middle,Middle School,Beginner,Math,92,Easy,94,81,Yes
+Student_436,6,Male,USA,Florida,Orlando,Unemployed,Middle,Elementary,Beginner,Music,135,Medium,125,73,Yes
+Student_437,9,Female,UK,Northern Ireland,Belfast,Doctor,Middle,Elementary,Intermediate,Literature,223,Hard,110,75,Yes
+Student_438,15,Female,India,Uttar Pradesh,Kanpur,Service Worker,Middle,High School,Advanced,Computer Science,152,Medium,71,73,Yes
+Student_439,11,Female,UK,Wales,Cardiff,Admin,Middle,Middle School,Advanced,Literature,86,Medium,79,70,Yes
+Student_440,11,Male,Canada,Alberta,Edmonton,Service Worker,Middle,Middle School,Advanced,Art,158,Medium,94,59,Yes
+Student_441,16,Female,Australia,Queensland,Brisbane,Teacher,Middle,High School,Beginner,Math,140,Medium,133,74,Yes
+Student_442,17,Female,India,Tamil Nadu,Coimbatore,Unemployed,Middle,High School,Intermediate,Computer Science,113,Hard,85,60,Yes
+Student_443,10,Other,India,Delhi,Delhi,Business Owner,Low,Elementary,Beginner,Art,215,Easy,86,75,Yes
+Student_444,6,Female,Canada,Ontario,Toronto,Teacher,Middle,Elementary,Advanced,Literature,216,Medium,122,82,Yes
+Student_445,13,Male,USA,California,San Diego,Artist,Middle,Middle School,Intermediate,Literature,148,Medium,102,79,Yes
+Student_446,10,Female,Australia,Western Australia,Perth,Engineer,Middle,Elementary,Intermediate,Computer Science,110,Medium,115,77,Yes
+Student_447,17,Female,India,Delhi,Delhi,Engineer,Middle,High School,Intermediate,Math,111,Medium,89,70,Yes
+Student_448,17,Male,Australia,NSW,Sydney,Admin,Middle,High School,Advanced,Literature,82,Medium,98,74,Yes
+Student_449,17,Female,India,Delhi,Delhi,Engineer,High,High School,Intermediate,History,48,Hard,119,77,Yes
+Student_450,10,Female,Australia,Queensland,Brisbane,Artist,Low,Elementary,Intermediate,Art,229,Hard,97,46,No
+Student_451,12,Male,UK,Northern Ireland,Belfast,Business Owner,Middle,Middle School,Beginner,Computer Science,31,Medium,116,68,Yes
+Student_452,9,Male,India,Tamil Nadu,Chennai,Engineer,Middle,Elementary,Beginner,Science,96,Medium,105,64,Yes
+Student_453,11,Male,Australia,Queensland,Brisbane,Other,Middle,Middle School,Intermediate,Science,60,Hard,84,62,Yes
+Student_454,9,Male,USA,Illinois,Chicago,Teacher,Low,Elementary,Intermediate,Math,149,Easy,99,73,Yes
+Student_455,8,Male,UK,Northern Ireland,Belfast,Doctor,Middle,Elementary,Beginner,History,56,Easy,114,78,Yes
+Student_456,12,Female,UK,Scotland,Edinburgh,Doctor,Low,Middle School,Beginner,Literature,192,Medium,110,84,Yes
+Student_457,13,Male,USA,Texas,Houston,Teacher,Low,Middle School,Beginner,Science,227,Hard,99,66,Yes
+Student_458,9,Male,Australia,Western Australia,Perth,Engineer,Low,Elementary,Advanced,Math,195,Hard,71,64,Yes
+Student_459,7,Female,Canada,British Columbia,Victoria,Admin,Low,Elementary,Advanced,Art,43,Medium,73,71,Yes
+Student_460,17,Female,USA,Illinois,Chicago,Other,High,High School,Beginner,History,118,Easy,76,75,Yes
+Student_461,15,Male,Australia,NSW,Sydney,Teacher,High,High School,Intermediate,History,169,Medium,92,58,Yes
+Student_462,8,Male,USA,California,San Diego,Service Worker,Middle,Elementary,Beginner,Music,119,Easy,94,72,Yes
+Student_463,6,Male,USA,Illinois,Chicago,Admin,Middle,Elementary,Advanced,Math,158,Easy,77,74,Yes
+Student_464,13,Female,India,Tamil Nadu,Chennai,Unemployed,Low,Middle School,Intermediate,Math,77,Medium,115,78,Yes
+Student_465,8,Male,Australia,Western Australia,Perth,Artist,Middle,Elementary,Advanced,Music,193,Easy,81,72,Yes
+Student_466,17,Female,Canada,Alberta,Calgary,Doctor,Middle,High School,Intermediate,Literature,48,Hard,79,51,Yes
+Student_467,15,Other,India,Tamil Nadu,Coimbatore,Doctor,High,High School,Advanced,Math,182,Medium,101,75,Yes
+Student_468,12,Male,USA,Texas,Houston,Admin,Middle,Middle School,Intermediate,Music,162,Medium,114,69,Yes
+Student_469,15,Female,USA,Illinois,Chicago,Unemployed,Middle,High School,Intermediate,Literature,79,Easy,130,92,Yes
+Student_470,10,Other,USA,Illinois,Chicago,Teacher,Low,Elementary,Intermediate,Literature,114,Medium,108,88,Yes
+Student_471,15,Male,Australia,NSW,Sydney,Doctor,High,High School,Intermediate,Computer Science,61,Easy,123,83,Yes
+Student_472,10,Female,Australia,Western Australia,Perth,Other,Low,Elementary,Advanced,History,62,Hard,81,56,Yes
+Student_473,12,Female,India,Uttar Pradesh,Lucknow,Unemployed,Middle,Middle School,Advanced,Art,227,Hard,132,88,Yes
+Student_474,14,Female,Canada,Ontario,Ottawa,Other,Middle,Middle School,Intermediate,History,93,Medium,72,67,Yes
+Student_475,17,Female,India,Maharashtra,Nagpur,Admin,Middle,High School,Intermediate,History,196,Easy,92,75,Yes
+Student_476,10,Female,UK,Northern Ireland,Belfast,Artist,Low,Elementary,Advanced,Computer Science,211,Hard,108,73,Yes
+Student_477,6,Female,USA,Illinois,Chicago,Service Worker,High,Elementary,Intermediate,Literature,179,Medium,75,62,Yes
+Student_478,15,Female,USA,Texas,Houston,Service Worker,Low,High School,Intermediate,Literature,83,Easy,86,71,Yes
+Student_479,15,Female,USA,Florida,Orlando,Engineer,Middle,High School,Intermediate,Math,21,Medium,83,63,Yes
+Student_480,6,Female,India,Uttar Pradesh,Lucknow,Business Owner,Low,Elementary,Beginner,Computer Science,171,Hard,95,61,Yes
+Student_481,7,Female,India,Maharashtra,Mumbai,Admin,Low,Elementary,Intermediate,Math,234,Easy,121,79,Yes
+Student_482,11,Male,USA,Texas,Austin,Teacher,Middle,Middle School,Beginner,Computer Science,85,Easy,100,64,Yes
+Student_483,14,Male,India,Delhi,Delhi,Admin,Middle,Middle School,Intermediate,Math,185,Hard,93,70,Yes
+Student_484,13,Male,Australia,Victoria,Melbourne,Service Worker,Low,Middle School,Advanced,Science,50,Easy,70,63,Yes
+Student_485,10,Male,Australia,NSW,Sydney,Other,Low,Elementary,Beginner,Music,134,Easy,107,78,Yes
+Student_486,6,Male,India,Tamil Nadu,Coimbatore,Engineer,Middle,Elementary,Beginner,History,45,Medium,111,74,Yes
+Student_487,12,Female,USA,Texas,Dallas,Teacher,Middle,Middle School,Intermediate,History,48,Hard,74,47,No
+Student_488,10,Male,India,Karnataka,Bangalore,Service Worker,Middle,Elementary,Intermediate,Art,214,Medium,98,67,Yes
+Student_489,11,Female,India,Maharashtra,Pune,Teacher,Low,Middle School,Beginner,Music,97,Hard,102,67,Yes
+Student_490,12,Male,India,Uttar Pradesh,Kanpur,Admin,Middle,Middle School,Advanced,Literature,44,Medium,114,58,Yes
+Student_491,8,Female,UK,Scotland,Edinburgh,Admin,Low,Elementary,Advanced,Art,67,Easy,89,68,Yes
+Student_492,17,Other,Australia,NSW,Sydney,Engineer,Low,High School,Intermediate,Science,84,Hard,86,80,Yes
+Student_493,15,Male,Canada,Ontario,Toronto,Business Owner,Middle,High School,Advanced,Art,200,Medium,93,62,Yes
+Student_494,8,Female,Canada,Quebec,Quebec City,Business Owner,Middle,Elementary,Advanced,History,86,Easy,119,77,Yes
+Student_495,10,Male,UK,England,Birmingham,Doctor,Low,Elementary,Intermediate,Literature,109,Medium,115,58,Yes
+Student_496,11,Female,India,Maharashtra,Nagpur,Other,Low,Middle School,Advanced,Science,165,Medium,99,71,Yes
+Student_497,14,Male,UK,England,Manchester,Unemployed,Low,Middle School,Intermediate,History,156,Easy,115,98,Yes
+Student_498,17,Female,UK,Northern Ireland,Belfast,Service Worker,Middle,High School,Beginner,Music,57,Easy,70,68,Yes
+Student_499,10,Male,USA,Florida,Miami,Admin,High,Elementary,Intermediate,Math,106,Medium,111,69,Yes
+Student_500,6,Female,Australia,Victoria,Melbourne,Business Owner,Low,Elementary,Beginner,Computer Science,168,Hard,83,81,Yes
+Student_501,9,Female,Canada,Quebec,Quebec City,Other,Low,Elementary,Beginner,Science,84,Medium,126,63,Yes
+Student_502,10,Male,India,Uttar Pradesh,Kanpur,Service Worker,Middle,Elementary,Advanced,Literature,168,Hard,84,67,Yes
+Student_503,17,Male,Canada,British Columbia,Vancouver,Admin,High,High School,Advanced,Art,46,Easy,87,69,Yes
+Student_504,15,Male,Canada,British Columbia,Vancouver,Unemployed,Middle,High School,Advanced,Music,125,Easy,108,77,Yes
+Student_505,15,Male,Australia,Western Australia,Perth,Teacher,Low,High School,Intermediate,Art,142,Easy,109,86,Yes
+Student_506,10,Female,Canada,Quebec,Quebec City,Unemployed,Low,Elementary,Advanced,Science,217,Easy,93,69,Yes
+Student_507,12,Male,Canada,Ontario,Ottawa,Teacher,Middle,Middle School,Beginner,Music,63,Easy,105,77,Yes
+Student_508,9,Male,UK,Scotland,Edinburgh,Doctor,Middle,Elementary,Advanced,Literature,119,Medium,107,75,Yes
+Student_509,6,Male,Australia,Queensland,Brisbane,Doctor,Low,Elementary,Advanced,Science,47,Hard,105,57,Yes
+Student_510,10,Female,USA,New York,Buffalo,Other,Middle,Elementary,Intermediate,Literature,192,Hard,93,83,Yes
+Student_511,12,Male,India,Karnataka,Bangalore,Unemployed,Low,Middle School,Intermediate,Art,36,Easy,107,72,Yes
+Student_512,15,Male,Canada,Quebec,Montreal,Admin,Middle,High School,Beginner,History,146,Hard,121,72,Yes
+Student_513,15,Male,India,Delhi,Delhi,Admin,Low,High School,Intermediate,Music,142,Medium,81,58,Yes
+Student_514,11,Male,USA,New York,New York City,Service Worker,Low,Middle School,Advanced,Math,187,Easy,87,74,Yes
+Student_515,10,Female,India,Uttar Pradesh,Kanpur,Other,Middle,Elementary,Intermediate,History,150,Hard,100,86,Yes
+Student_516,9,Male,USA,New York,New York City,Business Owner,Middle,Elementary,Beginner,Math,95,Medium,84,63,Yes
+Student_517,7,Male,UK,Northern Ireland,Belfast,Artist,High,Elementary,Advanced,Art,223,Easy,72,77,Yes
+Student_518,9,Female,Canada,Ontario,Toronto,Teacher,Middle,Elementary,Beginner,Music,213,Medium,116,88,Yes
+Student_519,15,Female,USA,Illinois,Chicago,Admin,Low,High School,Intermediate,History,65,Easy,70,63,Yes
+Student_520,15,Male,India,Karnataka,Bangalore,Admin,Middle,High School,Intermediate,History,233,Medium,93,71,Yes
+Student_521,8,Female,Canada,British Columbia,Vancouver,Artist,Low,Elementary,Beginner,Science,234,Medium,111,84,Yes
+Student_522,15,Female,UK,Wales,Cardiff,Engineer,High,High School,Advanced,Computer Science,177,Hard,104,68,Yes
+Student_523,6,Male,Canada,Ontario,Ottawa,Unemployed,Middle,Elementary,Intermediate,Art,88,Easy,94,70,Yes
+Student_524,13,Female,USA,Florida,Miami,Engineer,Middle,Middle School,Intermediate,Literature,156,Medium,83,75,Yes
+Student_525,10,Female,UK,Wales,Cardiff,Admin,Low,Elementary,Advanced,Art,104,Medium,105,71,Yes
+Student_526,9,Male,India,Karnataka,Bangalore,Other,Middle,Elementary,Intermediate,Literature,30,Medium,85,72,Yes
+Student_527,13,Male,UK,England,London,Business Owner,Middle,Middle School,Beginner,Music,88,Medium,103,70,Yes
+Student_528,12,Male,UK,Wales,Cardiff,Teacher,Middle,Middle School,Intermediate,Literature,118,Medium,102,61,Yes
+Student_529,7,Female,Australia,Queensland,Brisbane,Admin,Low,Elementary,Intermediate,Math,110,Hard,102,39,No
+Student_530,6,Other,UK,Scotland,Glasgow,Unemployed,Low,Elementary,Advanced,Literature,213,Hard,90,53,Yes
+Student_531,17,Female,UK,Wales,Cardiff,Business Owner,Middle,High School,Beginner,Literature,235,Hard,130,67,Yes
+Student_532,16,Male,Canada,British Columbia,Victoria,Other,High,High School,Advanced,Science,178,Hard,105,73,Yes
+Student_533,9,Female,India,Tamil Nadu,Coimbatore,Engineer,Low,Elementary,Intermediate,History,180,Medium,95,65,Yes
+Student_534,13,Female,Canada,British Columbia,Vancouver,Business Owner,Middle,Middle School,Intermediate,Art,186,Hard,103,54,Yes
+Student_535,17,Male,Canada,Quebec,Quebec City,Admin,Low,High School,Advanced,Art,113,Medium,88,66,Yes
+Student_536,7,Male,USA,Illinois,Chicago,Unemployed,Middle,Elementary,Advanced,Music,193,Medium,94,64,Yes
+Student_537,8,Female,Canada,Quebec,Quebec City,Teacher,Low,Elementary,Advanced,Music,184,Medium,135,88,Yes
+Student_538,17,Male,Australia,NSW,Sydney,Unemployed,Low,High School,Beginner,Literature,134,Medium,88,72,Yes
+Student_539,6,Female,Australia,NSW,Sydney,Service Worker,Middle,Elementary,Intermediate,Computer Science,239,Easy,98,86,Yes
+Student_540,6,Male,USA,Texas,Dallas,Artist,Low,Elementary,Advanced,Art,207,Hard,93,48,No
+Student_541,8,Male,India,Maharashtra,Pune,Engineer,Middle,Elementary,Intermediate,Music,50,Medium,84,63,Yes
+Student_542,16,Male,India,Maharashtra,Nagpur,Unemployed,Middle,High School,Beginner,Literature,30,Easy,106,72,Yes
+Student_543,10,Male,Canada,Ontario,Ottawa,Teacher,Low,Elementary,Beginner,Music,106,Medium,100,61,Yes
+Student_544,17,Female,Canada,Quebec,Quebec City,Doctor,Middle,High School,Beginner,Math,140,Easy,113,64,Yes
+Student_545,8,Male,Canada,British Columbia,Vancouver,Teacher,Middle,Elementary,Beginner,Math,149,Easy,112,80,Yes
+Student_546,6,Female,India,Delhi,Delhi,Unemployed,Low,Elementary,Intermediate,Music,124,Easy,113,89,Yes
+Student_547,6,Female,UK,Scotland,Glasgow,Service Worker,Middle,Elementary,Beginner,Math,46,Medium,86,42,No
+Student_548,13,Female,Australia,Western Australia,Perth,Admin,Middle,Middle School,Beginner,Music,21,Medium,109,62,Yes
+Student_549,15,Male,UK,Scotland,Glasgow,Teacher,Middle,High School,Advanced,Literature,122,Medium,109,75,Yes
+Student_550,16,Female,UK,Scotland,Glasgow,Service Worker,Low,High School,Beginner,Science,120,Medium,84,75,Yes
+Student_551,17,Female,India,Delhi,Delhi,Service Worker,Low,High School,Advanced,Computer Science,40,Medium,95,63,Yes
+Student_552,17,Male,UK,England,Birmingham,Unemployed,Low,High School,Beginner,Literature,77,Medium,78,78,Yes
+Student_553,7,Male,USA,Florida,Orlando,Other,Middle,Elementary,Beginner,Science,152,Medium,110,61,Yes
+Student_554,8,Female,Canada,Alberta,Edmonton,Engineer,Middle,Elementary,Advanced,Science,199,Medium,109,62,Yes
+Student_555,7,Other,USA,Florida,Miami,Service Worker,Middle,Elementary,Beginner,Art,192,Easy,121,94,Yes
+Student_556,8,Male,Australia,Victoria,Melbourne,Engineer,Low,Elementary,Intermediate,Literature,104,Easy,96,55,Yes
+Student_557,12,Female,Canada,Quebec,Montreal,Business Owner,Low,Middle School,Intermediate,Literature,112,Medium,106,76,Yes
+Student_558,6,Female,UK,Wales,Cardiff,Teacher,Middle,Elementary,Beginner,Music,39,Medium,114,69,Yes
+Student_559,15,Female,Australia,Queensland,Brisbane,Doctor,Middle,High School,Intermediate,Science,80,Easy,88,63,Yes
+Student_560,13,Other,Canada,Alberta,Edmonton,Doctor,Low,Middle School,Advanced,Science,57,Easy,86,65,Yes
+Student_561,15,Female,UK,Northern Ireland,Belfast,Service Worker,Middle,High School,Beginner,Science,167,Hard,89,55,Yes
+Student_562,15,Male,USA,Florida,Orlando,Doctor,Low,High School,Beginner,Music,44,Hard,94,58,Yes
+Student_563,15,Male,Canada,British Columbia,Vancouver,Admin,Middle,High School,Advanced,Art,149,Medium,86,68,Yes
+Student_564,7,Male,UK,Northern Ireland,Belfast,Artist,Middle,Elementary,Advanced,Literature,140,Medium,89,65,Yes
+Student_565,8,Female,USA,California,Los Angeles,Engineer,Low,Elementary,Advanced,Science,179,Medium,113,73,Yes
+Student_566,14,Female,Australia,Queensland,Brisbane,Admin,Low,Middle School,Beginner,Math,45,Hard,98,64,Yes
+Student_567,12,Male,Australia,NSW,Sydney,Teacher,Middle,Middle School,Advanced,Literature,217,Hard,104,85,Yes
+Student_568,9,Female,Australia,Western Australia,Perth,Business Owner,Low,Elementary,Advanced,Music,188,Easy,91,75,Yes
+Student_569,15,Female,Australia,Victoria,Melbourne,Service Worker,Middle,High School,Intermediate,Art,86,Hard,90,68,Yes
+Student_570,10,Female,India,Maharashtra,Mumbai,Doctor,Middle,Elementary,Intermediate,Math,20,Easy,104,64,Yes
+Student_571,7,Male,Canada,British Columbia,Victoria,Engineer,Middle,Elementary,Beginner,Music,70,Easy,101,63,Yes
+Student_572,16,Female,Canada,Ontario,Ottawa,Doctor,Middle,High School,Intermediate,History,24,Medium,111,73,Yes
+Student_573,13,Male,India,Delhi,Delhi,Other,Middle,Middle School,Intermediate,Literature,32,Medium,119,70,Yes
+Student_574,9,Male,UK,England,Birmingham,Service Worker,Low,Elementary,Advanced,History,166,Hard,89,74,Yes
+Student_575,14,Male,UK,Scotland,Edinburgh,Service Worker,Middle,Middle School,Advanced,Music,159,Easy,112,92,Yes
+Student_576,10,Male,Australia,NSW,Sydney,Service Worker,Middle,Elementary,Intermediate,Music,67,Medium,83,70,Yes
+Student_577,14,Male,USA,New York,New York City,Teacher,Middle,Middle School,Intermediate,Music,172,Hard,131,84,Yes
+Student_578,9,Female,UK,Northern Ireland,Belfast,Artist,Low,Elementary,Intermediate,Science,76,Hard,88,33,No
+Student_579,15,Male,USA,Florida,Orlando,Admin,Low,High School,Beginner,Art,134,Easy,110,83,Yes
+Student_580,10,Female,Canada,Quebec,Quebec City,Engineer,High,Elementary,Beginner,Science,54,Medium,83,70,Yes
+Student_581,14,Male,USA,New York,New York City,Teacher,Low,Middle School,Beginner,Art,95,Medium,97,59,Yes
+Student_582,13,Female,Canada,Alberta,Calgary,Teacher,High,Middle School,Intermediate,Computer Science,113,Easy,123,83,Yes
+Student_583,8,Other,India,Tamil Nadu,Chennai,Business Owner,High,Elementary,Intermediate,Science,24,Hard,87,49,No
+Student_584,6,Male,India,Uttar Pradesh,Kanpur,Other,Middle,Elementary,Beginner,History,41,Hard,133,80,Yes
+Student_585,8,Male,Australia,Western Australia,Perth,Engineer,Middle,Elementary,Beginner,Art,122,Easy,99,68,Yes
+Student_586,9,Male,UK,Northern Ireland,Belfast,Business Owner,Middle,Elementary,Intermediate,Science,224,Easy,114,79,Yes
+Student_587,7,Female,Australia,NSW,Sydney,Teacher,Middle,Elementary,Advanced,Literature,204,Easy,106,78,Yes
+Student_588,6,Female,Canada,Quebec,Quebec City,Other,Low,Elementary,Beginner,Music,194,Hard,106,89,Yes
+Student_589,12,Male,Australia,Victoria,Melbourne,Engineer,Middle,Middle School,Intermediate,Art,201,Easy,78,81,Yes
+Student_590,13,Female,USA,Texas,Houston,Artist,Middle,Middle School,Intermediate,Art,150,Medium,92,83,Yes
+Student_591,12,Male,Canada,Quebec,Quebec City,Admin,Middle,Middle School,Advanced,Science,143,Medium,117,63,Yes
+Student_592,10,Male,India,Karnataka,Bangalore,Admin,Middle,Elementary,Intermediate,Computer Science,72,Medium,94,57,Yes
+Student_593,17,Female,UK,Northern Ireland,Belfast,Artist,Low,High School,Intermediate,Science,231,Easy,102,93,Yes
+Student_594,6,Male,Canada,Alberta,Edmonton,Doctor,Middle,Elementary,Beginner,History,178,Easy,76,58,Yes
+Student_595,12,Female,Canada,Quebec,Montreal,Artist,Middle,Middle School,Beginner,History,88,Hard,91,56,Yes
+Student_596,12,Male,USA,California,San Francisco,Teacher,Low,Middle School,Advanced,Art,235,Hard,116,93,Yes
+Student_597,14,Other,UK,England,Manchester,Teacher,High,Middle School,Advanced,Art,123,Medium,80,57,Yes
+Student_598,8,Male,India,Uttar Pradesh,Lucknow,Business Owner,Middle,Elementary,Intermediate,Science,180,Easy,110,67,Yes
+Student_599,14,Male,Canada,Alberta,Edmonton,Teacher,Middle,Middle School,Beginner,History,219,Medium,102,77,Yes
+Student_600,6,Female,Canada,Alberta,Calgary,Teacher,Middle,Elementary,Advanced,History,235,Medium,96,61,Yes
+Student_601,6,Male,USA,California,San Diego,Service Worker,Middle,Elementary,Advanced,Computer Science,197,Easy,95,88,Yes
+Student_602,9,Other,Australia,NSW,Sydney,Other,Low,Elementary,Advanced,Literature,231,Hard,92,62,Yes
+Student_603,14,Female,India,Tamil Nadu,Chennai,Service Worker,Middle,Middle School,Intermediate,Computer Science,35,Medium,93,56,Yes
+Student_604,11,Female,UK,Northern Ireland,Belfast,Engineer,Low,Middle School,Beginner,Math,135,Easy,113,81,Yes
+Student_605,16,Female,Canada,Alberta,Calgary,Engineer,Middle,High School,Advanced,Music,95,Hard,93,59,Yes
+Student_606,8,Female,Canada,Ontario,Ottawa,Other,High,Elementary,Beginner,Computer Science,224,Hard,127,81,Yes
+Student_607,6,Female,India,Tamil Nadu,Chennai,Teacher,Low,Elementary,Advanced,Science,128,Easy,104,82,Yes
+Student_608,9,Female,Australia,NSW,Sydney,Engineer,Low,Elementary,Advanced,Literature,58,Medium,91,63,Yes
+Student_609,17,Female,Canada,Ontario,Ottawa,Service Worker,Middle,High School,Beginner,Science,108,Medium,114,65,Yes
+Student_610,14,Male,India,Maharashtra,Nagpur,Service Worker,Low,Middle School,Beginner,Music,193,Medium,109,83,Yes
+Student_611,8,Male,USA,New York,Buffalo,Service Worker,Middle,Elementary,Beginner,Math,235,Easy,75,69,Yes
+Student_612,17,Female,Australia,NSW,Sydney,Teacher,Low,High School,Intermediate,Literature,131,Medium,84,60,Yes
+Student_613,14,Male,UK,Scotland,Glasgow,Engineer,Low,Middle School,Advanced,Art,66,Hard,98,64,Yes
+Student_614,12,Female,Canada,British Columbia,Victoria,Other,High,Middle School,Intermediate,History,191,Medium,76,52,Yes
+Student_615,17,Male,India,Maharashtra,Pune,Teacher,Middle,High School,Beginner,Computer Science,156,Easy,131,90,Yes
+Student_616,9,Male,USA,Florida,Miami,Service Worker,Middle,Elementary,Advanced,Science,234,Medium,112,82,Yes
+Student_617,8,Female,UK,Wales,Cardiff,Admin,Low,Elementary,Intermediate,Math,147,Medium,99,81,Yes
+Student_618,15,Female,India,Delhi,Delhi,Service Worker,Middle,High School,Advanced,History,197,Hard,94,64,Yes
+Student_619,10,Male,India,Uttar Pradesh,Kanpur,Doctor,Middle,Elementary,Intermediate,Computer Science,96,Medium,91,78,Yes
+Student_620,10,Female,UK,Northern Ireland,Belfast,Teacher,Middle,Elementary,Beginner,History,207,Easy,70,76,Yes
+Student_621,8,Female,USA,Texas,Dallas,Service Worker,Middle,Elementary,Intermediate,Computer Science,34,Easy,74,64,Yes
+Student_622,17,Male,USA,Texas,Austin,Unemployed,Middle,High School,Advanced,Art,55,Medium,128,91,Yes
+Student_623,14,Female,Australia,Victoria,Melbourne,Other,Middle,Middle School,Advanced,Literature,82,Easy,123,82,Yes
+Student_624,9,Male,Canada,Alberta,Edmonton,Engineer,Low,Elementary,Advanced,History,88,Medium,91,63,Yes
+Student_625,16,Male,UK,Northern Ireland,Belfast,Teacher,Middle,High School,Advanced,History,233,Easy,113,87,Yes
+Student_626,10,Other,UK,Northern Ireland,Belfast,Other,Low,Elementary,Beginner,History,227,Medium,107,74,Yes
+Student_627,9,Male,UK,England,Manchester,Admin,Middle,Elementary,Intermediate,Literature,188,Medium,109,80,Yes
+Student_628,10,Female,USA,California,San Diego,Unemployed,Low,Elementary,Beginner,Math,93,Hard,78,69,Yes
+Student_629,12,Female,Canada,Quebec,Quebec City,Teacher,Middle,Middle School,Beginner,Computer Science,43,Hard,72,54,Yes
+Student_630,14,Male,Australia,Western Australia,Perth,Service Worker,Middle,Middle School,Beginner,Art,229,Easy,117,87,Yes
+Student_631,12,Female,India,Delhi,Delhi,Admin,Low,Middle School,Advanced,History,68,Medium,70,66,Yes
+Student_632,10,Female,India,Delhi,Delhi,Service Worker,Low,Elementary,Advanced,Music,165,Easy,97,87,Yes
+Student_633,15,Male,UK,England,London,Artist,Low,High School,Advanced,Literature,26,Medium,94,61,Yes
+Student_634,15,Female,Canada,British Columbia,Victoria,Engineer,Middle,High School,Intermediate,Math,23,Medium,93,65,Yes
+Student_635,12,Female,USA,Illinois,Chicago,Service Worker,Middle,Middle School,Advanced,Computer Science,109,Hard,104,73,Yes
+Student_636,15,Female,Canada,British Columbia,Victoria,Teacher,Low,High School,Intermediate,Literature,216,Hard,89,70,Yes
+Student_637,10,Female,Canada,British Columbia,Vancouver,Business Owner,Middle,Elementary,Advanced,Art,79,Medium,105,56,Yes
+Student_638,8,Male,USA,Illinois,Chicago,Other,Low,Elementary,Advanced,Art,74,Medium,102,77,Yes
+Student_639,12,Female,UK,Wales,Cardiff,Artist,Middle,Middle School,Beginner,Computer Science,35,Hard,131,75,Yes
+Student_640,16,Female,Canada,Ontario,Ottawa,Unemployed,High,High School,Beginner,History,237,Hard,79,70,Yes
+Student_641,16,Female,India,Delhi,Delhi,Teacher,Low,High School,Beginner,Art,229,Easy,100,72,Yes
+Student_642,7,Female,USA,Texas,Austin,Service Worker,Middle,Elementary,Intermediate,Math,48,Medium,106,70,Yes
+Student_643,17,Female,Australia,Western Australia,Perth,Other,Low,High School,Intermediate,Literature,170,Medium,96,79,Yes
+Student_644,14,Female,UK,England,Birmingham,Engineer,Low,Middle School,Advanced,Math,33,Easy,79,58,Yes
+Student_645,15,Female,USA,Illinois,Chicago,Engineer,Low,High School,Intermediate,History,98,Easy,118,75,Yes
+Student_646,15,Female,Australia,Queensland,Brisbane,Business Owner,Low,High School,Advanced,Math,196,Easy,105,88,Yes
+Student_647,17,Female,Australia,Western Australia,Perth,Engineer,Middle,High School,Intermediate,Math,52,Medium,80,56,Yes
+Student_648,6,Female,Canada,Quebec,Quebec City,Admin,Middle,Elementary,Intermediate,Science,172,Easy,106,79,Yes
+Student_649,11,Female,Canada,British Columbia,Vancouver,Other,Middle,Middle School,Intermediate,Math,40,Easy,125,71,Yes
+Student_650,12,Male,Canada,Quebec,Quebec City,Business Owner,Low,Middle School,Beginner,Computer Science,164,Easy,99,92,Yes
+Student_651,13,Male,USA,Illinois,Chicago,Teacher,Low,Middle School,Intermediate,Literature,42,Hard,99,66,Yes
+Student_652,15,Male,USA,Illinois,Chicago,Business Owner,Middle,High School,Beginner,Science,76,Hard,123,69,Yes
+Student_653,14,Female,UK,Northern Ireland,Belfast,Admin,High,Middle School,Beginner,Literature,228,Medium,85,68,Yes
+Student_654,7,Female,Canada,Quebec,Montreal,Engineer,Low,Elementary,Intermediate,Literature,205,Medium,125,73,Yes
+Student_655,16,Female,Australia,Victoria,Melbourne,Service Worker,Middle,High School,Advanced,History,161,Hard,114,71,Yes
+Student_656,15,Male,India,Uttar Pradesh,Kanpur,Service Worker,Middle,High School,Advanced,History,112,Easy,86,77,Yes
+Student_657,7,Female,UK,Northern Ireland,Belfast,Service Worker,Middle,Elementary,Advanced,Science,39,Easy,89,62,Yes
+Student_658,10,Male,USA,Texas,Austin,Teacher,Middle,Elementary,Intermediate,Art,177,Easy,92,77,Yes
+Student_659,10,Male,UK,Scotland,Glasgow,Admin,Low,Elementary,Advanced,Music,38,Easy,72,61,Yes
+Student_660,11,Female,UK,Wales,Cardiff,Engineer,Low,Middle School,Beginner,History,200,Medium,103,87,Yes
+Student_661,8,Female,UK,Scotland,Glasgow,Teacher,Middle,Elementary,Advanced,Music,122,Hard,86,57,Yes
+Student_662,13,Male,UK,Northern Ireland,Belfast,Unemployed,Low,Middle School,Intermediate,History,203,Medium,104,83,Yes
+Student_663,6,Male,India,Tamil Nadu,Chennai,Admin,High,Elementary,Advanced,History,96,Medium,80,75,Yes
+Student_664,11,Male,Canada,Ontario,Toronto,Engineer,Middle,Middle School,Beginner,Literature,229,Hard,113,72,Yes
+Student_665,9,Male,Australia,Queensland,Brisbane,Teacher,Low,Elementary,Intermediate,Science,170,Easy,111,77,Yes
+Student_666,6,Female,UK,Scotland,Glasgow,Teacher,Middle,Elementary,Advanced,Literature,209,Easy,89,85,Yes
+Student_667,12,Male,UK,England,Birmingham,Teacher,Low,Middle School,Intermediate,Computer Science,52,Medium,105,55,Yes
+Student_668,14,Female,UK,England,London,Teacher,Middle,Middle School,Intermediate,Literature,37,Medium,101,71,Yes
+Student_669,9,Female,Canada,Ontario,Toronto,Engineer,Middle,Elementary,Intermediate,Music,92,Easy,122,69,Yes
+Student_670,9,Male,USA,Illinois,Chicago,Business Owner,High,Elementary,Advanced,Music,180,Medium,84,79,Yes
+Student_671,11,Male,USA,California,San Francisco,Admin,Middle,Middle School,Intermediate,Computer Science,179,Medium,97,71,Yes
+Student_672,17,Male,India,Uttar Pradesh,Lucknow,Service Worker,Middle,High School,Advanced,Math,208,Medium,90,72,Yes
+Student_673,8,Male,USA,California,San Diego,Service Worker,Middle,Elementary,Beginner,Math,201,Medium,100,69,Yes
+Student_674,17,Male,UK,Wales,Cardiff,Engineer,High,High School,Advanced,Computer Science,36,Medium,107,56,Yes
+Student_675,11,Female,UK,Northern Ireland,Belfast,Other,Low,Middle School,Beginner,Computer Science,38,Easy,90,79,Yes
+Student_676,12,Male,UK,Scotland,Edinburgh,Unemployed,Low,Middle School,Advanced,Literature,238,Medium,94,74,Yes
+Student_677,16,Other,India,Tamil Nadu,Coimbatore,Unemployed,Low,High School,Intermediate,Computer Science,89,Easy,114,100,Yes
+Student_678,15,Male,UK,Wales,Cardiff,Unemployed,Low,High School,Advanced,Science,139,Hard,120,66,Yes
+Student_679,15,Female,USA,California,San Diego,Other,Middle,High School,Intermediate,Math,120,Medium,107,68,Yes
+Student_680,8,Female,Canada,Alberta,Calgary,Business Owner,Middle,Elementary,Beginner,Math,53,Medium,97,60,Yes
+Student_681,12,Female,Canada,Ontario,Ottawa,Teacher,Middle,Middle School,Advanced,Art,103,Medium,96,68,Yes
+Student_682,8,Female,Australia,Queensland,Brisbane,Service Worker,Low,Elementary,Intermediate,Computer Science,172,Medium,108,89,Yes
+Student_683,7,Female,USA,California,San Francisco,Admin,Middle,Elementary,Beginner,History,215,Medium,103,85,Yes
+Student_684,17,Female,UK,Scotland,Glasgow,Admin,Low,High School,Beginner,History,93,Hard,75,45,No
+Student_685,15,Female,Canada,Quebec,Montreal,Business Owner,Middle,High School,Advanced,Computer Science,221,Hard,108,83,Yes
+Student_686,9,Female,USA,Illinois,Chicago,Engineer,Middle,Elementary,Beginner,Science,107,Medium,87,72,Yes
+Student_687,17,Male,Canada,Alberta,Calgary,Doctor,Low,High School,Intermediate,History,104,Easy,78,72,Yes
+Student_688,13,Male,UK,England,Manchester,Other,Low,Middle School,Beginner,Art,30,Medium,74,53,Yes
+Student_689,14,Female,Canada,Ontario,Toronto,Service Worker,Low,Middle School,Beginner,Music,110,Medium,96,64,Yes
+Student_690,12,Female,Australia,Western Australia,Perth,Business Owner,Middle,Middle School,Intermediate,Computer Science,163,Easy,84,74,Yes
+Student_691,6,Female,Australia,Western Australia,Perth,Teacher,High,Elementary,Beginner,Science,237,Easy,70,68,Yes
+Student_692,8,Female,Canada,Alberta,Calgary,Doctor,Middle,Elementary,Beginner,Science,208,Hard,94,79,Yes
+Student_693,17,Other,USA,Illinois,Chicago,Unemployed,Low,High School,Beginner,Literature,146,Easy,92,70,Yes
+Student_694,14,Male,USA,Florida,Miami,Service Worker,Middle,Middle School,Beginner,Science,132,Medium,97,55,Yes
+Student_695,17,Male,USA,Illinois,Chicago,Admin,Middle,High School,Intermediate,History,99,Medium,90,57,Yes
+Student_696,6,Male,Canada,British Columbia,Vancouver,Business Owner,Middle,Elementary,Beginner,Music,26,Medium,127,64,Yes
+Student_697,14,Male,USA,California,San Diego,Service Worker,Low,Middle School,Intermediate,History,35,Easy,107,72,Yes
+Student_698,13,Female,UK,England,Manchester,Teacher,Low,Middle School,Beginner,Computer Science,35,Hard,92,61,Yes
+Student_699,6,Male,Australia,Western Australia,Perth,Admin,Middle,Elementary,Beginner,Music,187,Medium,99,74,Yes
+Student_700,11,Female,UK,Northern Ireland,Belfast,Artist,Middle,Middle School,Beginner,Computer Science,31,Medium,121,77,Yes
+Student_701,10,Male,USA,Texas,Austin,Business Owner,Low,Elementary,Beginner,Science,54,Medium,114,70,Yes
+Student_702,11,Female,UK,Wales,Cardiff,Service Worker,Low,Middle School,Intermediate,Art,40,Medium,79,59,Yes
+Student_703,15,Female,USA,Florida,Miami,Other,Middle,High School,Intermediate,Math,197,Hard,85,79,Yes
+Student_704,17,Male,Canada,Alberta,Edmonton,Engineer,Middle,High School,Intermediate,Music,190,Medium,88,81,Yes
+Student_705,10,Female,UK,Wales,Cardiff,Unemployed,High,Elementary,Advanced,Literature,36,Medium,93,68,Yes
+Student_706,11,Male,Canada,Quebec,Montreal,Teacher,Middle,Middle School,Beginner,Math,51,Hard,91,67,Yes
+Student_707,10,Male,Canada,British Columbia,Victoria,Business Owner,Middle,Elementary,Beginner,Science,60,Medium,100,53,Yes
+Student_708,16,Male,India,Delhi,Delhi,Engineer,Low,High School,Intermediate,Science,153,Easy,111,74,Yes
+Student_709,17,Male,USA,Texas,Houston,Doctor,Middle,High School,Advanced,Math,235,Easy,113,82,Yes
+Student_710,10,Male,Australia,NSW,Sydney,Business Owner,Middle,Elementary,Beginner,Literature,46,Hard,95,54,Yes
+Student_711,9,Female,USA,California,San Diego,Engineer,Middle,Elementary,Intermediate,Music,167,Medium,75,53,Yes
+Student_712,8,Female,Australia,Queensland,Brisbane,Business Owner,Middle,Elementary,Beginner,Music,172,Medium,84,72,Yes
+Student_713,8,Female,USA,California,San Diego,Other,Low,Elementary,Beginner,Math,85,Medium,92,78,Yes
+Student_714,9,Male,Canada,Ontario,Ottawa,Engineer,Low,Elementary,Intermediate,Computer Science,156,Easy,81,72,Yes
+Student_715,14,Female,UK,Wales,Cardiff,Admin,Low,Middle School,Intermediate,History,111,Medium,117,81,Yes
+Student_716,7,Male,UK,Northern Ireland,Belfast,Artist,Low,Elementary,Beginner,Art,200,Easy,82,74,Yes
+Student_717,14,Male,India,Uttar Pradesh,Lucknow,Service Worker,Low,Middle School,Beginner,Computer Science,80,Medium,109,68,Yes
+Student_718,6,Female,Australia,Western Australia,Perth,Teacher,High,Elementary,Intermediate,Music,185,Medium,74,74,Yes
+Student_719,6,Male,Australia,Queensland,Brisbane,Teacher,Middle,Elementary,Beginner,History,22,Medium,109,57,Yes
+Student_720,10,Female,Australia,Western Australia,Perth,Teacher,Middle,Elementary,Beginner,Art,231,Medium,97,61,Yes
+Student_721,11,Female,Canada,Alberta,Calgary,Engineer,Middle,Middle School,Intermediate,Art,217,Hard,122,66,Yes
+Student_722,11,Male,Australia,Queensland,Brisbane,Teacher,High,Middle School,Beginner,Art,122,Medium,83,73,Yes
+Student_723,8,Male,UK,Northern Ireland,Belfast,Service Worker,Middle,Elementary,Beginner,Science,74,Easy,91,72,Yes
+Student_724,12,Male,Canada,Ontario,Toronto,Unemployed,Middle,Middle School,Advanced,Art,20,Easy,94,72,Yes
+Student_725,14,Female,USA,Illinois,Chicago,Unemployed,Low,Middle School,Intermediate,Literature,120,Medium,97,84,Yes
+Student_726,16,Male,Australia,NSW,Sydney,Service Worker,Low,High School,Advanced,Math,217,Hard,94,60,Yes
+Student_727,17,Male,Australia,NSW,Sydney,Engineer,Middle,High School,Advanced,Music,64,Hard,95,71,Yes
+Student_728,15,Male,USA,Illinois,Chicago,Teacher,Middle,High School,Advanced,Literature,194,Hard,94,65,Yes
+Student_729,13,Female,Australia,Western Australia,Perth,Doctor,Middle,Middle School,Beginner,Math,226,Medium,70,63,Yes
+Student_730,11,Male,USA,Texas,Austin,Teacher,Low,Middle School,Beginner,Computer Science,45,Medium,114,72,Yes
+Student_731,17,Male,Canada,Alberta,Calgary,Business Owner,Low,High School,Advanced,Computer Science,140,Medium,142,87,Yes
+Student_732,13,Female,UK,England,Birmingham,Business Owner,Middle,Middle School,Advanced,Math,161,Easy,104,78,Yes
+Student_733,17,Female,USA,Texas,Dallas,Doctor,Low,High School,Advanced,Literature,201,Easy,82,80,Yes
+Student_734,10,Male,India,Delhi,Delhi,Doctor,Middle,Elementary,Beginner,Math,218,Hard,84,67,Yes
+Student_735,13,Male,USA,Illinois,Chicago,Unemployed,Middle,Middle School,Advanced,Art,65,Easy,109,74,Yes
+Student_736,15,Male,Australia,NSW,Sydney,Admin,Middle,High School,Advanced,Science,141,Easy,105,75,Yes
+Student_737,17,Female,Canada,Ontario,Toronto,Doctor,Middle,High School,Intermediate,Music,50,Easy,95,73,Yes
+Student_738,9,Male,Canada,British Columbia,Victoria,Other,Middle,Elementary,Intermediate,Computer Science,235,Hard,111,64,Yes
+Student_739,15,Female,USA,Texas,Dallas,Other,Middle,High School,Beginner,Music,78,Medium,70,51,Yes
+Student_740,13,Female,UK,Scotland,Edinburgh,Doctor,Middle,Middle School,Intermediate,Science,48,Medium,111,68,Yes
+Student_741,15,Female,India,Maharashtra,Mumbai,Doctor,Middle,High School,Intermediate,Art,125,Hard,103,72,Yes
+Student_742,17,Male,Canada,Alberta,Calgary,Business Owner,Low,High School,Intermediate,Art,36,Medium,85,79,Yes
+Student_743,7,Female,Australia,NSW,Sydney,Other,Low,Elementary,Beginner,Computer Science,161,Medium,78,65,Yes
+Student_744,17,Female,Australia,NSW,Sydney,Unemployed,Low,High School,Intermediate,Computer Science,183,Easy,101,65,Yes
+Student_745,17,Female,UK,Northern Ireland,Belfast,Engineer,Middle,High School,Beginner,Art,205,Easy,121,80,Yes
+Student_746,10,Male,Canada,Ontario,Ottawa,Artist,Middle,Elementary,Advanced,History,43,Hard,96,66,Yes
+Student_747,14,Other,USA,New York,New York City,Service Worker,Middle,Middle School,Intermediate,Music,128,Medium,87,60,Yes
+Student_748,9,Male,Australia,NSW,Sydney,Business Owner,Low,Elementary,Beginner,Science,210,Medium,102,66,Yes
+Student_749,16,Male,UK,Wales,Cardiff,Teacher,Low,High School,Intermediate,Music,110,Medium,127,84,Yes
+Student_750,11,Male,Canada,Ontario,Toronto,Unemployed,High,Middle School,Advanced,Science,44,Medium,106,73,Yes
+Student_751,6,Female,Canada,Quebec,Quebec City,Service Worker,Low,Elementary,Beginner,History,206,Easy,108,71,Yes
+Student_752,14,Male,Canada,Alberta,Edmonton,Unemployed,Middle,Middle School,Beginner,Literature,51,Easy,118,71,Yes
+Student_753,6,Male,Canada,Quebec,Montreal,Unemployed,Middle,Elementary,Beginner,Science,135,Easy,107,89,Yes
+Student_754,10,Male,Canada,Ontario,Ottawa,Admin,Middle,Elementary,Advanced,Music,101,Easy,88,78,Yes
+Student_755,9,Male,Australia,NSW,Sydney,Business Owner,Low,Elementary,Advanced,Math,129,Hard,73,49,No
+Student_756,17,Female,UK,Wales,Cardiff,Service Worker,Low,High School,Advanced,Art,165,Easy,86,58,Yes
+Student_757,8,Female,Canada,Ontario,Toronto,Teacher,Low,Elementary,Beginner,Art,56,Easy,83,70,Yes
+Student_758,11,Male,India,Maharashtra,Mumbai,Service Worker,Middle,Middle School,Advanced,History,45,Medium,109,68,Yes
+Student_759,7,Male,India,Uttar Pradesh,Lucknow,Teacher,Middle,Elementary,Intermediate,Science,156,Hard,111,73,Yes
+Student_760,8,Female,UK,Scotland,Edinburgh,Service Worker,Low,Elementary,Advanced,Literature,83,Easy,102,80,Yes
+Student_761,10,Male,USA,New York,New York City,Teacher,Middle,Elementary,Beginner,Science,91,Easy,80,61,Yes
+Student_762,14,Male,USA,New York,New York City,Engineer,Middle,Middle School,Intermediate,Art,167,Medium,126,78,Yes
+Student_763,7,Other,USA,California,Los Angeles,Teacher,Low,Elementary,Advanced,Computer Science,201,Medium,93,66,Yes
+Student_764,15,Female,India,Tamil Nadu,Chennai,Engineer,Middle,High School,Intermediate,Math,125,Medium,109,67,Yes
+Student_765,13,Male,USA,Texas,Austin,Admin,Middle,Middle School,Intermediate,History,105,Hard,100,70,Yes
+Student_766,7,Female,Australia,Queensland,Brisbane,Admin,Low,Elementary,Beginner,Computer Science,230,Hard,103,74,Yes
+Student_767,16,Male,Canada,British Columbia,Victoria,Business Owner,Low,High School,Intermediate,Music,177,Medium,108,64,Yes
+Student_768,10,Female,India,Tamil Nadu,Coimbatore,Teacher,Middle,Elementary,Intermediate,Literature,72,Medium,89,71,Yes
+Student_769,12,Male,UK,Northern Ireland,Belfast,Engineer,Middle,Middle School,Beginner,Computer Science,111,Medium,119,73,Yes
+Student_770,13,Male,UK,Wales,Cardiff,Engineer,Middle,Middle School,Beginner,Music,118,Easy,76,75,Yes
+Student_771,6,Male,Canada,Alberta,Edmonton,Teacher,Middle,Elementary,Beginner,Computer Science,210,Hard,84,58,Yes
+Student_772,11,Female,India,Delhi,Delhi,Unemployed,Middle,Middle School,Intermediate,Literature,30,Medium,119,65,Yes
+Student_773,6,Female,USA,New York,Buffalo,Teacher,Middle,Elementary,Intermediate,Computer Science,50,Easy,108,77,Yes
+Student_774,7,Male,USA,Texas,Dallas,Doctor,Middle,Elementary,Intermediate,History,196,Medium,138,77,Yes
+Student_775,6,Male,Australia,Queensland,Brisbane,Engineer,Middle,Elementary,Beginner,Art,119,Easy,101,74,Yes
+Student_776,16,Female,Australia,NSW,Sydney,Teacher,Low,High School,Advanced,Science,106,Medium,125,68,Yes
+Student_777,10,Male,USA,Texas,Houston,Business Owner,Middle,Elementary,Intermediate,Computer Science,166,Medium,72,62,Yes
+Student_778,15,Male,UK,Northern Ireland,Belfast,Service Worker,Middle,High School,Advanced,History,159,Medium,78,66,Yes
+Student_779,14,Other,UK,Northern Ireland,Belfast,Teacher,Middle,Middle School,Beginner,Science,34,Hard,113,66,Yes
+Student_780,11,Male,Australia,Victoria,Melbourne,Engineer,High,Middle School,Intermediate,Music,178,Easy,73,68,Yes
+Student_781,16,Female,Canada,Quebec,Montreal,Artist,Low,High School,Advanced,Science,190,Medium,97,76,Yes
+Student_782,16,Other,USA,Illinois,Chicago,Teacher,Low,High School,Intermediate,Music,120,Medium,117,77,Yes
+Student_783,6,Male,Australia,Queensland,Brisbane,Teacher,Low,Elementary,Intermediate,Computer Science,184,Medium,107,76,Yes
+Student_784,6,Male,Australia,Victoria,Melbourne,Other,Middle,Elementary,Intermediate,History,226,Medium,100,71,Yes
+Student_785,7,Male,USA,Florida,Miami,Service Worker,Middle,Elementary,Advanced,Art,48,Medium,93,74,Yes
+Student_786,14,Female,USA,Texas,Austin,Service Worker,Low,Middle School,Beginner,Computer Science,133,Medium,103,76,Yes
+Student_787,8,Female,UK,Scotland,Edinburgh,Artist,Middle,Elementary,Intermediate,Music,126,Easy,108,70,Yes
+Student_788,6,Female,Canada,Quebec,Montreal,Artist,Middle,Elementary,Beginner,Literature,173,Hard,90,71,Yes
+Student_789,10,Male,Canada,British Columbia,Victoria,Business Owner,Middle,Elementary,Beginner,Science,127,Medium,105,80,Yes
+Student_790,12,Female,USA,California,Los Angeles,Service Worker,Middle,Middle School,Advanced,Computer Science,149,Medium,116,77,Yes
+Student_791,11,Female,India,Uttar Pradesh,Lucknow,Admin,Middle,Middle School,Advanced,Music,103,Easy,96,74,Yes
+Student_792,17,Female,Australia,Western Australia,Perth,Teacher,High,High School,Beginner,Science,34,Easy,101,56,Yes
+Student_793,6,Female,Australia,Victoria,Melbourne,Business Owner,Low,Elementary,Intermediate,Music,151,Medium,107,68,Yes
+Student_794,10,Female,USA,Illinois,Chicago,Artist,Low,Elementary,Advanced,History,233,Hard,108,81,Yes
+Student_795,10,Female,India,Karnataka,Mysore,Unemployed,Middle,Elementary,Intermediate,Math,69,Medium,113,66,Yes
+Student_796,11,Female,UK,Northern Ireland,Belfast,Service Worker,High,Middle School,Intermediate,Computer Science,185,Hard,84,63,Yes
+Student_797,8,Male,USA,California,Los Angeles,Business Owner,Middle,Elementary,Intermediate,Art,42,Medium,92,58,Yes
+Student_798,10,Male,USA,Illinois,Chicago,Engineer,Low,Elementary,Beginner,Computer Science,78,Medium,92,68,Yes
+Student_799,12,Female,Australia,Western Australia,Perth,Service Worker,Low,Middle School,Intermediate,Science,109,Easy,86,74,Yes
+Student_800,10,Male,USA,Texas,Houston,Engineer,Middle,Elementary,Beginner,History,134,Hard,73,62,Yes
+Student_801,10,Female,USA,California,San Diego,Doctor,Low,Elementary,Beginner,Music,94,Easy,70,57,Yes
+Student_802,10,Other,USA,Illinois,Chicago,Engineer,Middle,Elementary,Intermediate,Literature,175,Hard,117,75,Yes
+Student_803,15,Female,Australia,Victoria,Melbourne,Service Worker,High,High School,Intermediate,Art,213,Hard,76,76,Yes
+Student_804,15,Male,UK,Scotland,Glasgow,Teacher,Middle,High School,Intermediate,History,142,Hard,123,80,Yes
+Student_805,8,Male,UK,Scotland,Edinburgh,Artist,Middle,Elementary,Intermediate,Computer Science,155,Medium,111,77,Yes
+Student_806,6,Male,USA,Florida,Orlando,Unemployed,Middle,Elementary,Beginner,Literature,176,Medium,93,56,Yes
+Student_807,10,Female,Australia,NSW,Sydney,Teacher,Low,Elementary,Intermediate,History,158,Medium,109,74,Yes
+Student_808,14,Female,UK,Wales,Cardiff,Business Owner,Middle,Middle School,Intermediate,Math,37,Easy,106,87,Yes
+Student_809,6,Female,UK,Scotland,Edinburgh,Artist,Middle,Elementary,Beginner,Art,202,Medium,83,81,Yes
+Student_810,8,Male,UK,Scotland,Edinburgh,Engineer,Middle,Elementary,Advanced,Science,69,Easy,99,77,Yes
+Student_811,9,Female,Australia,NSW,Sydney,Admin,Middle,Elementary,Advanced,History,161,Medium,85,63,Yes
+Student_812,6,Female,Australia,Victoria,Melbourne,Engineer,Middle,Elementary,Beginner,History,137,Easy,109,80,Yes
+Student_813,6,Male,USA,Florida,Orlando,Business Owner,Middle,Elementary,Advanced,Math,221,Easy,89,84,Yes
+Student_814,13,Female,Canada,Alberta,Calgary,Service Worker,Low,Middle School,Beginner,Computer Science,156,Medium,98,80,Yes
+Student_815,7,Male,UK,Scotland,Edinburgh,Service Worker,Middle,Elementary,Intermediate,Music,158,Medium,97,75,Yes
+Student_816,17,Male,Canada,Quebec,Quebec City,Service Worker,High,High School,Intermediate,Music,210,Medium,101,83,Yes
+Student_817,13,Female,Australia,Western Australia,Perth,Teacher,Middle,Middle School,Advanced,Art,127,Easy,124,83,Yes
+Student_818,12,Male,Australia,Victoria,Melbourne,Engineer,High,Middle School,Intermediate,Art,223,Medium,96,74,Yes
+Student_819,15,Female,Australia,Western Australia,Perth,Admin,Low,High School,Advanced,Science,86,Easy,118,76,Yes
+Student_820,15,Female,Canada,British Columbia,Vancouver,Business Owner,Middle,High School,Advanced,History,200,Medium,107,80,Yes
+Student_821,7,Female,Australia,Queensland,Brisbane,Unemployed,Middle,Elementary,Intermediate,Literature,186,Medium,121,89,Yes
+Student_822,11,Male,USA,Texas,Austin,Unemployed,Middle,Middle School,Intermediate,History,97,Medium,94,74,Yes
+Student_823,11,Female,Australia,Victoria,Melbourne,Unemployed,Middle,Middle School,Advanced,Music,203,Medium,110,68,Yes
+Student_824,8,Female,India,Maharashtra,Mumbai,Business Owner,Low,Elementary,Intermediate,Science,175,Medium,99,64,Yes
+Student_825,16,Female,Canada,Ontario,Toronto,Doctor,Low,High School,Beginner,History,94,Medium,70,70,Yes
+Student_826,7,Male,India,Karnataka,Bangalore,Admin,Middle,Elementary,Intermediate,Math,58,Medium,83,64,Yes
+Student_827,17,Male,Australia,Western Australia,Perth,Business Owner,Low,High School,Intermediate,Music,44,Medium,108,71,Yes
+Student_828,6,Female,USA,New York,Buffalo,Teacher,Middle,Elementary,Beginner,History,40,Medium,107,71,Yes
+Student_829,11,Male,UK,Wales,Cardiff,Unemployed,Low,Middle School,Intermediate,History,157,Easy,80,86,Yes
+Student_830,17,Female,Australia,Queensland,Brisbane,Unemployed,Low,High School,Intermediate,Music,190,Medium,103,72,Yes
+Student_831,10,Female,USA,Illinois,Chicago,Business Owner,Middle,Elementary,Advanced,Literature,34,Medium,107,78,Yes
+Student_832,16,Female,Canada,Alberta,Calgary,Engineer,Middle,High School,Intermediate,Music,230,Medium,99,78,Yes
+Student_833,14,Female,India,Delhi,Delhi,Artist,Middle,Middle School,Intermediate,Math,67,Easy,110,64,Yes
+Student_834,6,Female,India,Karnataka,Mysore,Unemployed,Middle,Elementary,Beginner,Math,105,Easy,108,71,Yes
+Student_835,12,Female,India,Uttar Pradesh,Lucknow,Other,Low,Middle School,Advanced,History,168,Hard,99,63,Yes
+Student_836,10,Female,Canada,Alberta,Edmonton,Teacher,Middle,Elementary,Advanced,Art,207,Medium,92,82,Yes
+Student_837,10,Female,USA,New York,New York City,Engineer,Middle,Elementary,Advanced,Literature,135,Easy,115,91,Yes
+Student_838,7,Male,Canada,Ontario,Ottawa,Unemployed,Low,Elementary,Intermediate,History,69,Medium,106,73,Yes
+Student_839,16,Male,India,Karnataka,Mysore,Artist,Middle,High School,Advanced,Music,170,Medium,79,63,Yes
+Student_840,8,Female,Australia,NSW,Sydney,Business Owner,High,Elementary,Beginner,History,160,Hard,103,62,Yes
+Student_841,12,Male,UK,Wales,Cardiff,Other,Middle,Middle School,Advanced,Science,88,Easy,82,78,Yes
+Student_842,11,Male,Canada,Ontario,Ottawa,Engineer,Low,Middle School,Beginner,Science,23,Easy,85,56,Yes
+Student_843,17,Male,Canada,Ontario,Ottawa,Service Worker,Low,High School,Advanced,Art,239,Hard,90,68,Yes
+Student_844,7,Female,USA,New York,Buffalo,Engineer,Low,Elementary,Advanced,Literature,97,Easy,100,94,Yes
+Student_845,11,Female,USA,New York,Buffalo,Doctor,Middle,Middle School,Beginner,Computer Science,219,Easy,105,78,Yes
+Student_846,7,Female,Canada,Alberta,Edmonton,Unemployed,Middle,Elementary,Advanced,Science,28,Hard,93,49,No
+Student_847,7,Female,India,Karnataka,Mysore,Business Owner,Low,Elementary,Advanced,Computer Science,140,Medium,94,56,Yes
+Student_848,7,Female,UK,Northern Ireland,Belfast,Other,High,Elementary,Advanced,Math,134,Easy,92,94,Yes
+Student_849,16,Male,USA,Florida,Orlando,Service Worker,Middle,High School,Intermediate,Science,182,Easy,115,86,Yes
+Student_850,8,Female,India,Maharashtra,Pune,Doctor,Middle,Elementary,Beginner,Science,120,Easy,70,60,Yes
+Student_851,7,Male,Australia,NSW,Sydney,Teacher,Middle,Elementary,Advanced,Literature,168,Easy,95,75,Yes
+Student_852,9,Female,USA,Illinois,Chicago,Doctor,Low,Elementary,Beginner,Art,205,Hard,123,72,Yes
+Student_853,14,Female,India,Uttar Pradesh,Lucknow,Doctor,Middle,Middle School,Beginner,Computer Science,165,Medium,107,60,Yes
+Student_854,11,Male,India,Karnataka,Mysore,Engineer,Middle,Middle School,Beginner,Music,116,Medium,119,83,Yes
+Student_855,6,Male,UK,Wales,Cardiff,Doctor,Middle,Elementary,Advanced,Science,219,Hard,70,62,Yes
+Student_856,13,Male,UK,England,Birmingham,Business Owner,Middle,Middle School,Advanced,Science,100,Medium,81,70,Yes
+Student_857,17,Male,Australia,Queensland,Brisbane,Admin,Low,High School,Beginner,Literature,62,Easy,107,75,Yes
+Student_858,12,Male,India,Karnataka,Mysore,Service Worker,High,Middle School,Intermediate,Literature,114,Medium,123,79,Yes
+Student_859,15,Female,India,Uttar Pradesh,Kanpur,Admin,Low,High School,Beginner,Art,25,Hard,82,38,No
+Student_860,8,Female,UK,England,London,Engineer,Middle,Elementary,Intermediate,Computer Science,233,Hard,94,77,Yes
+Student_861,6,Female,USA,California,San Diego,Teacher,High,Elementary,Beginner,Math,225,Easy,106,74,Yes
+Student_862,10,Female,USA,Illinois,Chicago,Service Worker,Low,Elementary,Beginner,Music,86,Medium,78,56,Yes
+Student_863,9,Female,Canada,Quebec,Quebec City,Business Owner,Middle,Elementary,Beginner,Art,159,Medium,107,71,Yes
+Student_864,15,Female,UK,England,London,Engineer,Low,High School,Advanced,Math,119,Hard,70,40,No
+Student_865,13,Male,Canada,Alberta,Edmonton,Unemployed,Middle,Middle School,Intermediate,History,31,Easy,107,69,Yes
+Student_866,6,Female,UK,Northern Ireland,Belfast,Admin,Middle,Elementary,Intermediate,Science,85,Medium,85,60,Yes
+Student_867,15,Male,Australia,Queensland,Brisbane,Business Owner,Middle,High School,Beginner,Computer Science,21,Hard,93,56,Yes
+Student_868,6,Other,India,Uttar Pradesh,Kanpur,Engineer,High,Elementary,Advanced,Art,162,Medium,109,62,Yes
+Student_869,17,Female,Australia,Western Australia,Perth,Admin,Middle,High School,Advanced,Science,170,Medium,106,83,Yes
+Student_870,9,Female,UK,Northern Ireland,Belfast,Service Worker,Middle,Elementary,Intermediate,Computer Science,176,Easy,99,82,Yes
+Student_871,13,Male,India,Delhi,Delhi,Admin,Middle,Middle School,Advanced,Computer Science,100,Easy,114,72,Yes
+Student_872,10,Female,USA,Texas,Dallas,Admin,High,Elementary,Intermediate,Computer Science,154,Medium,74,60,Yes
+Student_873,7,Female,USA,Illinois,Chicago,Unemployed,Low,Elementary,Intermediate,Science,175,Hard,103,76,Yes
+Student_874,11,Male,Canada,Quebec,Montreal,Business Owner,High,Middle School,Intermediate,Art,161,Easy,88,72,Yes
+Student_875,10,Male,UK,Scotland,Edinburgh,Engineer,Low,Elementary,Advanced,Music,191,Medium,113,69,Yes
+Student_876,7,Female,UK,Northern Ireland,Belfast,Service Worker,Middle,Elementary,Intermediate,Literature,177,Medium,110,76,Yes
+Student_877,16,Male,USA,Illinois,Chicago,Service Worker,Low,High School,Intermediate,Science,228,Easy,110,76,Yes
+Student_878,16,Female,Australia,NSW,Sydney,Admin,Low,High School,Beginner,Computer Science,179,Medium,124,75,Yes
+Student_879,16,Male,India,Delhi,Delhi,Teacher,Middle,High School,Intermediate,Art,89,Medium,116,74,Yes
+Student_880,8,Male,Australia,Western Australia,Perth,Teacher,Middle,Elementary,Intermediate,Music,134,Hard,97,74,Yes
+Student_881,14,Female,Australia,NSW,Sydney,Unemployed,Middle,Middle School,Beginner,History,107,Medium,99,86,Yes
+Student_882,12,Male,USA,New York,Buffalo,Admin,Low,Middle School,Beginner,Math,25,Medium,109,80,Yes
+Student_883,12,Female,USA,Florida,Miami,Other,Middle,Middle School,Advanced,Computer Science,46,Easy,102,72,Yes
+Student_884,16,Male,USA,Texas,Dallas,Admin,High,High School,Intermediate,History,101,Hard,110,86,Yes
+Student_885,11,Male,Canada,Alberta,Edmonton,Service Worker,Middle,Middle School,Advanced,Literature,107,Easy,70,71,Yes
+Student_886,13,Female,Australia,Victoria,Melbourne,Service Worker,Low,Middle School,Advanced,Music,139,Medium,128,73,Yes
+Student_887,9,Female,UK,Northern Ireland,Belfast,Unemployed,Middle,Elementary,Beginner,Music,43,Easy,100,73,Yes
+Student_888,13,Female,India,Tamil Nadu,Coimbatore,Service Worker,Low,Middle School,Advanced,Computer Science,121,Hard,75,53,Yes
+Student_889,9,Female,Canada,British Columbia,Vancouver,Service Worker,Middle,Elementary,Intermediate,Music,53,Medium,86,53,Yes
+Student_890,13,Female,UK,Scotland,Edinburgh,Teacher,Middle,Middle School,Beginner,History,187,Medium,70,56,Yes
+Student_891,14,Male,Australia,Queensland,Brisbane,Business Owner,Middle,Middle School,Intermediate,Computer Science,66,Easy,83,67,Yes
+Student_892,8,Male,USA,Texas,Houston,Admin,Middle,Elementary,Intermediate,Science,226,Medium,97,81,Yes
+Student_893,8,Female,Australia,Western Australia,Perth,Teacher,Middle,Elementary,Beginner,Art,222,Medium,122,91,Yes
+Student_894,16,Female,India,Maharashtra,Pune,Teacher,Middle,High School,Intermediate,History,233,Medium,106,68,Yes
+Student_895,7,Female,Canada,Ontario,Toronto,Doctor,Middle,Elementary,Beginner,Art,43,Easy,103,71,Yes
+Student_896,15,Male,Canada,Ontario,Toronto,Teacher,Middle,High School,Intermediate,Science,84,Hard,82,63,Yes
+Student_897,8,Male,India,Uttar Pradesh,Lucknow,Teacher,Middle,Elementary,Beginner,Science,37,Hard,87,59,Yes
+Student_898,8,Female,UK,England,Birmingham,Artist,Middle,Elementary,Advanced,Art,63,Easy,88,75,Yes
+Student_899,10,Female,UK,England,London,Other,Middle,Elementary,Intermediate,History,95,Hard,89,58,Yes
+Student_900,10,Female,Canada,Alberta,Calgary,Business Owner,High,Elementary,Beginner,Art,76,Medium,94,77,Yes
+Student_901,7,Female,Canada,British Columbia,Vancouver,Teacher,Middle,Elementary,Intermediate,Art,126,Medium,95,70,Yes
+Student_902,17,Female,USA,Texas,Dallas,Engineer,Middle,High School,Intermediate,Math,175,Medium,94,78,Yes
+Student_903,15,Male,UK,England,Manchester,Service Worker,Low,High School,Intermediate,History,143,Medium,89,66,Yes
+Student_904,11,Male,India,Delhi,Delhi,Artist,Middle,Middle School,Beginner,Math,218,Medium,102,77,Yes
+Student_905,10,Male,UK,Wales,Cardiff,Unemployed,Middle,Elementary,Advanced,Computer Science,170,Medium,95,59,Yes
+Student_906,11,Male,USA,New York,Buffalo,Service Worker,Low,Middle School,Advanced,Music,232,Medium,76,63,Yes
+Student_907,6,Female,Canada,Alberta,Calgary,Admin,Low,Elementary,Advanced,Art,181,Medium,100,72,Yes
+Student_908,10,Male,Canada,Ontario,Ottawa,Teacher,Middle,Elementary,Beginner,Computer Science,158,Medium,98,73,Yes
+Student_909,14,Female,USA,New York,New York City,Service Worker,Middle,Middle School,Advanced,History,233,Easy,76,96,Yes
+Student_910,17,Male,India,Delhi,Delhi,Teacher,Middle,High School,Beginner,Art,182,Hard,91,63,Yes
+Student_911,15,Male,Canada,British Columbia,Victoria,Other,Low,High School,Intermediate,Music,135,Medium,108,63,Yes
+Student_912,7,Male,Australia,Queensland,Brisbane,Service Worker,Middle,Elementary,Intermediate,Computer Science,112,Easy,82,84,Yes
+Student_913,6,Male,Canada,Alberta,Edmonton,Doctor,Low,Elementary,Advanced,Literature,61,Easy,81,76,Yes
+Student_914,15,Female,Australia,Queensland,Brisbane,Teacher,Middle,High School,Beginner,Science,47,Medium,95,57,Yes
+Student_915,16,Male,USA,Florida,Orlando,Teacher,Low,High School,Intermediate,Art,142,Hard,109,74,Yes
+Student_916,14,Female,USA,Texas,Houston,Service Worker,Low,Middle School,Beginner,Music,229,Medium,127,91,Yes
+Student_917,15,Male,Canada,Ontario,Toronto,Teacher,Low,High School,Beginner,Science,225,Medium,109,80,Yes
+Student_918,14,Male,UK,Scotland,Edinburgh,Service Worker,Middle,Middle School,Intermediate,Math,229,Easy,116,89,Yes
+Student_919,14,Male,Australia,Victoria,Melbourne,Teacher,Low,Middle School,Beginner,Computer Science,239,Medium,105,73,Yes
+Student_920,11,Female,India,Maharashtra,Nagpur,Service Worker,Middle,Middle School,Intermediate,Math,43,Hard,89,63,Yes
+Student_921,13,Female,Canada,British Columbia,Vancouver,Unemployed,Middle,Middle School,Intermediate,Music,155,Medium,109,72,Yes
+Student_922,16,Male,India,Uttar Pradesh,Kanpur,Admin,Middle,High School,Intermediate,Art,125,Easy,98,54,Yes
+Student_923,6,Male,Canada,Alberta,Calgary,Admin,Middle,Elementary,Beginner,Science,137,Medium,105,75,Yes
+Student_924,15,Female,UK,England,London,Teacher,Middle,High School,Intermediate,Science,72,Easy,85,56,Yes
+Student_925,9,Male,UK,Scotland,Glasgow,Engineer,Low,Elementary,Beginner,Computer Science,219,Medium,106,86,Yes
+Student_926,6,Male,UK,England,Birmingham,Service Worker,Middle,Elementary,Intermediate,Art,151,Medium,98,63,Yes
+Student_927,13,Female,UK,Wales,Cardiff,Doctor,Low,Middle School,Intermediate,Literature,238,Medium,103,58,Yes
+Student_928,6,Female,USA,Texas,Dallas,Business Owner,Low,Elementary,Advanced,Literature,119,Easy,98,61,Yes
+Student_929,8,Male,USA,New York,New York City,Engineer,Middle,Elementary,Advanced,Computer Science,24,Hard,95,59,Yes
+Student_930,9,Female,Australia,Victoria,Melbourne,Teacher,Middle,Elementary,Advanced,Art,68,Medium,107,72,Yes
+Student_931,13,Female,India,Delhi,Delhi,Engineer,Middle,Middle School,Beginner,Computer Science,117,Medium,93,57,Yes
+Student_932,11,Male,Canada,Ontario,Ottawa,Unemployed,Middle,Middle School,Beginner,Art,49,Medium,76,52,Yes
+Student_933,15,Female,Canada,Ontario,Ottawa,Teacher,High,High School,Intermediate,Music,91,Medium,71,61,Yes
+Student_934,17,Female,USA,Florida,Orlando,Service Worker,Low,High School,Intermediate,Music,122,Medium,102,79,Yes
+Student_935,12,Male,Canada,Ontario,Toronto,Engineer,Low,Middle School,Intermediate,Math,82,Medium,93,57,Yes
+Student_936,13,Male,USA,Florida,Miami,Service Worker,Low,Middle School,Intermediate,Computer Science,194,Medium,74,70,Yes
+Student_937,7,Male,Australia,Queensland,Brisbane,Doctor,Low,Elementary,Beginner,Art,45,Easy,101,59,Yes
+Student_938,15,Female,India,Delhi,Delhi,Unemployed,Middle,High School,Intermediate,Literature,204,Hard,98,72,Yes
+Student_939,16,Male,Australia,Victoria,Melbourne,Unemployed,Middle,High School,Intermediate,Art,56,Medium,92,71,Yes
+Student_940,13,Female,UK,Scotland,Edinburgh,Doctor,Low,Middle School,Advanced,Music,26,Easy,103,76,Yes
+Student_941,8,Female,UK,Northern Ireland,Belfast,Other,High,Elementary,Intermediate,Art,146,Medium,119,86,Yes
+Student_942,12,Male,UK,England,Manchester,Other,Middle,Middle School,Intermediate,Computer Science,187,Hard,119,82,Yes
+Student_943,8,Female,Australia,Queensland,Brisbane,Unemployed,Low,Elementary,Intermediate,Math,111,Hard,102,81,Yes
+Student_944,12,Male,Canada,Quebec,Montreal,Unemployed,Low,Middle School,Beginner,Math,186,Medium,98,75,Yes
+Student_945,16,Female,India,Karnataka,Mysore,Teacher,Low,High School,Advanced,Math,209,Easy,102,96,Yes
+Student_946,17,Female,UK,Northern Ireland,Belfast,Service Worker,Low,High School,Intermediate,Math,122,Medium,104,65,Yes
+Student_947,7,Male,UK,England,London,Engineer,Low,Elementary,Intermediate,Music,239,Easy,95,79,Yes
+Student_948,15,Male,UK,Wales,Cardiff,Engineer,Middle,High School,Advanced,History,225,Hard,102,71,Yes
+Student_949,11,Male,India,Karnataka,Mysore,Other,Low,Middle School,Intermediate,Computer Science,72,Easy,76,58,Yes
+Student_950,8,Male,UK,Northern Ireland,Belfast,Doctor,Middle,Elementary,Beginner,Science,151,Easy,101,59,Yes
+Student_951,8,Male,India,Delhi,Delhi,Admin,High,Elementary,Intermediate,Computer Science,229,Medium,107,86,Yes
+Student_952,14,Male,UK,Scotland,Glasgow,Unemployed,Middle,Middle School,Beginner,History,127,Medium,92,62,Yes
+Student_953,12,Other,Australia,Victoria,Melbourne,Unemployed,High,Middle School,Beginner,Math,131,Medium,98,68,Yes
+Student_954,10,Male,Australia,Victoria,Melbourne,Other,Low,Elementary,Intermediate,History,172,Medium,83,81,Yes
+Student_955,17,Male,India,Uttar Pradesh,Lucknow,Teacher,Middle,High School,Advanced,Literature,26,Easy,81,70,Yes
+Student_956,15,Female,Australia,Victoria,Melbourne,Engineer,Middle,High School,Beginner,Literature,175,Easy,103,94,Yes
+Student_957,12,Male,India,Karnataka,Bangalore,Artist,Low,Middle School,Advanced,Music,216,Medium,89,73,Yes
+Student_958,14,Other,Australia,NSW,Sydney,Engineer,Low,Middle School,Intermediate,Computer Science,86,Easy,73,71,Yes
+Student_959,6,Female,Australia,Western Australia,Perth,Engineer,Middle,Elementary,Beginner,Computer Science,127,Medium,83,64,Yes
+Student_960,12,Female,India,Tamil Nadu,Chennai,Doctor,Middle,Middle School,Intermediate,Science,130,Medium,85,60,Yes
+Student_961,11,Male,Canada,Alberta,Edmonton,Admin,Middle,Middle School,Advanced,Music,167,Medium,111,81,Yes
+Student_962,15,Male,Australia,Queensland,Brisbane,Service Worker,Middle,High School,Intermediate,Science,102,Hard,102,62,Yes
+Student_963,17,Male,UK,Scotland,Glasgow,Doctor,Middle,High School,Intermediate,Literature,143,Hard,86,68,Yes
+Student_964,14,Female,Canada,Ontario,Ottawa,Service Worker,Low,Middle School,Beginner,Math,158,Hard,91,61,Yes
+Student_965,6,Male,India,Uttar Pradesh,Lucknow,Teacher,Low,Elementary,Intermediate,History,123,Easy,119,80,Yes
+Student_966,9,Male,Canada,Ontario,Toronto,Engineer,Low,Elementary,Intermediate,Science,86,Easy,114,78,Yes
+Student_967,14,Other,USA,Texas,Dallas,Admin,Low,Middle School,Intermediate,Art,234,Medium,83,80,Yes
+Student_968,9,Male,USA,Texas,Houston,Service Worker,High,Elementary,Beginner,Science,26,Hard,117,63,Yes
+Student_969,15,Male,Australia,Queensland,Brisbane,Admin,Middle,High School,Advanced,Math,170,Hard,98,77,Yes
+Student_970,8,Male,Australia,NSW,Sydney,Engineer,Middle,Elementary,Advanced,Math,208,Hard,111,66,Yes
+Student_971,14,Other,UK,Scotland,Glasgow,Unemployed,Low,Middle School,Intermediate,Computer Science,218,Easy,97,82,Yes
+Student_972,7,Male,Canada,Alberta,Edmonton,Service Worker,Middle,Elementary,Beginner,History,129,Hard,117,66,Yes
+Student_973,9,Female,USA,Texas,Austin,Service Worker,Low,Elementary,Intermediate,Math,53,Medium,82,71,Yes
+Student_974,11,Female,Australia,Victoria,Melbourne,Service Worker,Low,Middle School,Advanced,Music,125,Easy,96,69,Yes
+Student_975,7,Male,Canada,Alberta,Edmonton,Unemployed,Low,Elementary,Beginner,Science,166,Medium,118,73,Yes
+Student_976,13,Female,Australia,NSW,Sydney,Service Worker,Middle,Middle School,Advanced,Science,77,Easy,70,55,Yes
+Student_977,13,Male,Australia,Western Australia,Perth,Service Worker,Middle,Middle School,Advanced,Literature,28,Medium,99,67,Yes
+Student_978,6,Male,USA,Illinois,Chicago,Other,Middle,Elementary,Beginner,Math,67,Medium,94,71,Yes
+Student_979,17,Female,USA,Florida,Miami,Admin,Middle,High School,Beginner,Art,134,Medium,110,79,Yes
+Student_980,8,Female,Australia,Queensland,Brisbane,Business Owner,High,Elementary,Intermediate,Computer Science,229,Medium,116,80,Yes
+Student_981,15,Female,India,Uttar Pradesh,Lucknow,Admin,Low,High School,Intermediate,History,60,Hard,110,61,Yes
+Student_982,14,Female,Australia,Victoria,Melbourne,Artist,Low,Middle School,Advanced,Art,67,Medium,103,67,Yes
+Student_983,10,Male,Australia,Queensland,Brisbane,Teacher,Low,Elementary,Beginner,Computer Science,192,Medium,100,73,Yes
+Student_984,11,Male,UK,England,London,Service Worker,Middle,Middle School,Beginner,Science,44,Hard,94,62,Yes
+Student_985,9,Male,UK,England,Manchester,Other,High,Elementary,Intermediate,Art,135,Hard,103,69,Yes
+Student_986,15,Male,UK,England,Birmingham,Other,Low,High School,Advanced,Computer Science,97,Easy,121,95,Yes
+Student_987,7,Male,India,Delhi,Delhi,Doctor,Middle,Elementary,Advanced,Science,127,Medium,87,68,Yes
+Student_988,16,Male,India,Uttar Pradesh,Kanpur,Business Owner,Middle,High School,Intermediate,Science,44,Easy,93,73,Yes
+Student_989,13,Male,Australia,Victoria,Melbourne,Teacher,Low,Middle School,Beginner,Science,166,Easy,98,78,Yes
+Student_990,16,Male,UK,England,London,Other,Middle,High School,Intermediate,Science,58,Medium,115,70,Yes
+Student_991,11,Female,India,Karnataka,Mysore,Other,Middle,Middle School,Intermediate,Music,138,Hard,103,71,Yes
+Student_992,10,Female,USA,New York,Buffalo,Service Worker,High,Elementary,Intermediate,Science,98,Easy,114,76,Yes
+Student_993,14,Male,Australia,Victoria,Melbourne,Unemployed,Low,Middle School,Intermediate,Literature,99,Hard,115,69,Yes
+Student_994,6,Female,Canada,Alberta,Calgary,Admin,Middle,Elementary,Beginner,Art,46,Hard,108,74,Yes
+Student_995,10,Female,Australia,NSW,Sydney,Service Worker,Low,Elementary,Intermediate,Computer Science,123,Hard,84,57,Yes
+Student_996,11,Male,Canada,Alberta,Edmonton,Engineer,Middle,Middle School,Beginner,Literature,93,Easy,124,85,Yes
+Student_997,10,Female,UK,Wales,Cardiff,Business Owner,Middle,Elementary,Intermediate,Music,210,Hard,121,57,Yes
+Student_998,11,Female,Canada,Ontario,Ottawa,Service Worker,Middle,Middle School,Advanced,Literature,87,Medium,100,68,Yes
+Student_999,11,Female,UK,Scotland,Glasgow,Service Worker,Middle,Middle School,Beginner,Math,166,Medium,79,63,Yes
+Student_1000,12,Male,USA,California,Los Angeles,Doctor,Middle,Middle School,Advanced,Math,47,Easy,76,66,Yes
