@@ -39,25 +39,25 @@ Run the scripts in the following order from your terminal within the project dir
 
 1.  **Generate Data:**
     ```bash
-    python 007_DataGenerator.py
+    python DataGenerator.py
     ```
     This will create `k12_tutoring_dataset.csv`.
 
 2.  **Train Score Prediction Model:**
     ```bash
-    python 008_ScorePredictor.py
+    python ScorePredictor.py
     ```
     This will create `score_predictor_model.pkl` and optionally a feature importance plot.
 
 3.  **Train Promotion Prediction Model:**
     ```bash
-    python 011_TrainPromotionModel.py
+    python TrainPromotionModel.py
     ```
     This will create `promotion_predictor_model.pkl` and optionally a feature importance plot.
 
 4.  **Launch the Gradio Web App:**
     ```bash
-    python 010_GradioRecommenderApp_with_Promotion.py
+    python GradioRecommenderApp_with_Promotion.py
     ```
     This will start the Gradio interface and provide a local URL (e.g., `http://127.0.0.1:7860`).
 
@@ -86,10 +86,4 @@ Run the scripts in the following order from your terminal within the project dir
 *   Perform hyperparameter tuning for better model performance.
 *   Expand Exploratory Data Analysis (EDA).
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details. ( **Note:** You should add a file named `LICENSE` containing the text of the MIT license, or choose another appropriate license).
-
----
-
-*This README provides a guide to understanding, setting up, and running the AI-Powered K-12 Course Recommender & Promotion Predictor project.*
